@@ -1,0 +1,341 @@
+{
+    "data": {
+        "item": {
+            "id": "d21d59d3-6de1-4342-ab7b-46409a5b4f0c",
+            "status": "published",
+            "published_at": "2022-11-15T10:34:38.632Z",
+            "name": "Pegaxy",
+            "slug": "pegaxy",
+            "roadmap_text": "{\"time\":1668567407617,\"blocks\":[{\"id\":\"iSvJUgTgAI\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/pegaxy_roadmap_7254120798.png\",\"mime\":\"image/png\",\"height\":729,\"width\":1490,\"size\":34.73,\"alt\":\"pegaxy roadmap.png\",\"formats\":{\"large\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/large_pegaxy_roadmap_7254120798.png\",\"hash\":\"large_pegaxy_roadmap_7254120798\",\"mime\":\"image/png\",\"name\":\"large_pegaxy roadmap.png\",\"path\":null,\"size\":105.27,\"width\":1000,\"height\":489},\"small\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/small_pegaxy_roadmap_7254120798.png\",\"hash\":\"small_pegaxy_roadmap_7254120798\",\"mime\":\"image/png\",\"name\":\"small_pegaxy roadmap.png\",\"path\":null,\"size\":39.39,\"width\":500,\"height\":245},\"medium\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/medium_pegaxy_roadmap_7254120798.png\",\"hash\":\"medium_pegaxy_roadmap_7254120798\",\"mime\":\"image/png\",\"name\":\"medium_pegaxy roadmap.png\",\"path\":null,\"size\":71.84,\"width\":750,\"height\":367},\"thumbnail\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/thumbnail_pegaxy_roadmap_7254120798.png\",\"hash\":\"thumbnail_pegaxy_roadmap_7254120798\",\"mime\":\"image/png\",\"name\":\"thumbnail_pegaxy roadmap.png\",\"path\":null,\"size\":13.54,\"width\":245,\"height\":120}}},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
+            "introduction": "{\"time\":1668501089695,\"blocks\":[{\"id\":\"lijWAel3qL\",\"type\":\"paragraph\",\"data\":{\"text\":\"Pegaxy is a play-to-earn PVP style horse racing game where players compete for top 3 placement against 14 other racers. Each race has randomised elemental variables which include wind, water, fire, speed and more. Using strategic upgrades, food and skill, players must place in the top 3 to earn the platforms utility token, VIS (Vigorus).\"}},{\"id\":\"eCFiYnRlGa\",\"type\":\"paragraph\",\"data\":{\"text\":\"Within the game, players are able to breed, merge, rent, sell, and of course race their Pega to earn VIS tokens. This system has proven to be a sound long-term economic approach when building an NFT/Blockchain based game as it enables teams to build large guilds, scholarship programs, and even provides solo players the opportunity to earn in game tokens through daily racing.\"}},{\"id\":\"nJhR0cxYcG\",\"type\":\"paragraph\",\"data\":{\"text\":\"The initial sale of 5,000 Founding Pega was held in October 2021, alongside the PGX launch via IDO in November. The first 5,000 Pega were dubbed \\\"Founding\\\" Pega as they were the only ones  created by the Pegaxy Development team. Every Pega after #5,000 has been minted (created) through the breeding model inside the game.&nbsp;&nbsp;\"}},{\"id\":\"P_qX7XwfI-\",\"type\":\"paragraph\",\"data\":{\"text\":\"Pegaxy is well respected within the industry for its innovation in trustless rental systems, on chain technology and well weighted economic balance. Many also attribute its popularity to the gameplay, team transparency and community involvement during the development process.\"}}],\"version\":\"2.23.2\"}",
+            "excerpt": "Pegaxy is a play-to-earn PVP style horse racing game where players compete for top 3 placement against 14 other racers.",
+            "features_text": "{\"time\":1668501123918,\"blocks\":[{\"id\":\"MhiItqdzWe\",\"type\":\"paragraph\",\"data\":{\"text\":\"Pegaxy Fundamentals:\"}},{\"id\":\"Ep3J20K79U\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"The Pegaxy Metaverse is built on the Polygon/Matic Layer 2 Solution and utilises the dual token economic model initially introduced by Axie Infinity in late 2020. The governance token is PGX (Pegaxy Stone) and, as mentioned, the utility token is VIS (Vigorus).\",\"The game was released in 2D and transitioned to 3D once testing was complete, and will expand further once compatibility with low-end android devices is confirmed.\",\"Mobile gameplay is the primary focus of racing development.\",\"Enabling large scale rental programs and guild growth through the in-game economic model is at the forefront of importance. This creates widespread opportunity for those wanting to access the game for free. This aligns heavily with our team ethos.\",\"Through community involvement and eventual governance, the Pegaxy game direction and development will be dictated by the players.\"]}}],\"version\":\"2.23.2\"}",
+            "banners": [
+                {
+                    "desktop": "feef834e-554f-47db-a813-4e96d6be9072",
+                    "mobile": "feef834e-554f-47db-a813-4e96d6be9072"
+                }
+            ],
+            "logos": [
+                {
+                    "desktop": "3a283ca0-0e92-4fe0-aae4-7e9951014671",
+                    "mobile": "3a283ca0-0e92-4fe0-aae4-7e9951014671"
+                }
+            ],
+            "twitter_id": "1390209663430365186",
+            "links": {
+                "blog": "",
+                "coinmarketcap": "https://coinmarketcap.com/currencies/pegaxy/",
+                "discord": "https://discord.com/invite/pegaxy",
+                "facebook": "https://www.facebook.com/PegaxyOfficial/",
+                "instagram": "",
+                "medium": "https://medium.com/@pegaxyofficial",
+                "reddit": "",
+                "telegram": "",
+                "telegramAnnouncementChannel": "https://t.me/pegaxyglobal",
+                "tiktok": "",
+                "twitch": "https://twitch.tv/pegaxyofficial",
+                "twitter": "https://twitter.com/PegaxyOfficial",
+                "website": "https://www.pegaxy.io/",
+                "youtube": "https://www.youtube.com/c/PegaxyOfficial"
+            },
+            "release_status": "official",
+            "play_mode": "{\"time\":1668501651472,\"blocks\":[{\"id\":\"k8WomETC83\",\"type\":\"paragraph\",\"data\":{\"text\":\"Pegaxy has a very unique ecosystem that allows players to enter any race, for free. With this economic model, gameplay is very competitive, however the rewards are still lucrative. Players compete against 14 other racers in an attempt to earn a top 3 placement. All players inside the top 3 earn VIS tokens, the platforms utility token. Knowledge, strategy and skill are all required to place in the top 3. Be prepared to race, dedicate time and be one with your Pega, the rewards will make it all worthwhile.\"}}],\"version\":\"2.23.2\"}",
+            "play_to_earn_model": "{\"time\":1668501588978,\"blocks\":[{\"id\":\"2s7lSkD_Zj\",\"type\":\"paragraph\",\"data\":{\"text\":\"Owners and Renters can earn by:\"}},{\"id\":\"IWQlaqSYDA\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Racing their Pega in PVP mode.\",\"Selling high performing or newly born Pega on the Marketplace.\",\"Renting-out their Pega in the Rental Marketplace for a share of racing profit or fixed term rental.\",\"Collecting rare \\\"Founding\\\" and \\\"Crowned\\\" Pega and reselling through marketplace price speculation.\",\"Competing in Pegaxy's global competition, \\\"The Grand Dash\\\". This competition takes place over 12 months, concluding in December, in which the top 12 racers of every class (60 total/month), compete in a series of events until the top 15 racers are identified at the Grand final in December (top 3 of each class). The top 15 will receive generous PGX rewards.\"]}}],\"version\":\"2.23.2\"}",
+            "vertical_thumbnail": "4492917e-63c7-46b0-9a2f-bf7185040ee9",
+            "rectangle_thumbnail": "d79b7a26-c8a0-4226-8002-03d0205e3ca4",
+            "tokenomics_compact": [
+                {
+                    "id": "d6e8ecfe-10e9-4c5b-a700-fd52c038306e",
+                    "valuation": 0,
+                    "market_cap": 3199024.4292125637,
+                    "market_cap_init": 0,
+                    "market_cap_fully_diluted": 15648350,
+                    "market_cap_self_reported": 3199024.5,
+                    "token_symbol": "PGX",
+                    "icon": "d85f4a83-e95f-4a25-932d-439c08bbcf38",
+                    "current_price": 0.01564835011959076,
+                    "public_price": 0.02,
+                    "highest_price": 1.051,
+                    "reported_ath": 0,
+                    "chart_symbol": "PGXUSDT",
+                    "init_token_circulation": 0,
+                    "init_valuation": 0,
+                    "coinmarketcap_slug": "pegaxy",
+                    "coingecko_slug": "pegaxy-stone",
+                    "price_change_24_h": 2.87579514,
+                    "price_change_7_d": -13.32876553,
+                    "price_change_30_d": -9.08462966,
+                    "price_change_90_d": -23.26281886,
+                    "volume_24_h": 6862.5118358,
+                    "volume_change_24_h": 54.3914,
+                    "total_supply": 1000000000,
+                    "max_supply": 1000000000,
+                    "type": null,
+                    "is_primary": false
+                }
+            ],
+            "studios": [
+                {
+                    "id": "a62e908a-69a1-43e4-9d8f-33c6007659be",
+                    "name": "Mirai Labs",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/vunv518/",
+                            "name": "Vu Nguyen Van",
+                            "avatar": "pegaxy_steve_ac98c78884.png",
+                            "position": "CTO",
+                            "description": ""
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/realcoreywilton/",
+                            "name": "Corey Wilton",
+                            "avatar": "pegaxy_corey_f01eec72f1.png",
+                            "position": "CEO",
+                            "description": ""
+                        }
+                    ],
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                }
+            ],
+            "backers": [
+                {
+                    "id": 26,
+                    "logo": "27990767-a9b7-4beb-9ede-4795f4fde9d8",
+                    "name": "AstroV Ventures",
+                    "links": {
+                        "website": "https://astrov.ventures/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 30,
+                    "logo": "8a2f48b2-8a50-4b47-be85-d044d518dc29",
+                    "name": "Asteroid Capital",
+                    "links": {
+                        "website": "https://asteroidcapital.io/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 35,
+                    "logo": "6dee229f-cb80-4093-8d02-52d8e2a11ad4",
+                    "name": "BAP Ventures",
+                    "links": {
+                        "website": "https://bap-ventures.com/en/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 142,
+                    "logo": "5bb1c069-4c1d-4eae-9b62-131067fdab0e",
+                    "name": "Good Games Guild",
+                    "links": {
+                        "website": "https://goodgamesguild.com/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 221,
+                    "logo": "6804842e-2bb5-4182-a734-46498eb7e811",
+                    "name": "Momentum 6",
+                    "links": {
+                        "website": "https://momentum6.com/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 260,
+                    "logo": "26ada7db-3131-4792-9e5b-485331a52618",
+                    "name": "Poolz Ventures",
+                    "links": {
+                        "website": "https://ventures.poolz.finance/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 304,
+                    "logo": "4df60bc2-052d-49e5-9b23-6ccec457a85e",
+                    "name": "TAG Ventures",
+                    "links": {
+                        "website": "https://tagventures.fund/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 352,
+                    "logo": "05742e02-3af6-4628-8cdc-3fd4074e21a6",
+                    "name": "Kyros Ventures",
+                    "links": {
+                        "website": "https://kyros.ventures/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 361,
+                    "logo": "ccfea8d0-8c68-4a74-bab8-39228fa0f1c2",
+                    "name": "Kyber Network",
+                    "links": {
+                        "website": "https://kyber.network/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 371,
+                    "logo": "975fafd6-4534-4faf-a70e-c93aec3983ce",
+                    "name": "Shima Capital",
+                    "links": {
+                        "website": "https://shima.capital/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 389,
+                    "logo": "ab382b1b-ae85-4d9f-b3f0-b3fe6e57a4e3",
+                    "name": "TK Ventures",
+                    "links": {
+                        "website": "https://tk.ventures/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 397,
+                    "logo": "fe501e55-bc6a-4b91-93cd-0b5caf59650a",
+                    "name": "Crypto.com",
+                    "links": {
+                        "website": "https://crypto.com/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 539,
+                    "logo": "2361e502-7977-4957-80ca-3d3e3bb69667",
+                    "name": "Kyber Ventures",
+                    "links": {
+                        "website": "https://www.kyber.ventures/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                },
+                {
+                    "id": 541,
+                    "logo": "f43cc207-21fe-4a8d-a605-9d2c4ddfd393",
+                    "name": "Real Deal Guild",
+                    "links": {
+                        "website": "https://realdealguild.io/"
+                    },
+                    "game_ids": [
+                        "d21d59d3-6de1-4342-ab7b-46409a5b4f0c"
+                    ]
+                }
+            ],
+            "categories": [
+                {
+                    "id": "3f870a2d-28dd-4f92-a8b2-b26df6307bf0",
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "id": "6ebba192-7a68-405c-b7b9-a5f5adc28030",
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": "d53a29ef-1f25-47ea-87ec-093fb1d03c84",
+                    "name": "NFT",
+                    "slug": "nft"
+                }
+            ],
+            "downloads": [
+                {
+                    "id": "fbde3d3f-550d-4c87-ac4e-0c8691b56c59",
+                    "type": "ios",
+                    "link": "https://pegaxy.io/",
+                    "version": "0"
+                },
+                {
+                    "id": "fe665f53-aac7-4702-9463-7e2a6764cf09",
+                    "type": "android",
+                    "link": "https://pegaxy.io/",
+                    "version": "0"
+                },
+                {
+                    "id": "a638322d-2f48-4617-9ab2-18b57965ee2e",
+                    "type": "web",
+                    "link": "https://play.pegaxy.io/my-assets",
+                    "version": "0"
+                }
+            ],
+            "networks": [
+                {
+                    "network": "polygon"
+                }
+            ],
+            "game_graveyard": null,
+            "report_gamefi_rank": "A"
+        },
+        "metadata": {
+            "counts": {
+                "d21d59d3-6de1-4342-ab7b-46409a5b4f0c": {
+                    "avg_star_rating": 4,
+                    "dislikes": 0,
+                    "ga_views": 876,
+                    "likes": 27,
+                    "percentile": 41,
+                    "ratings": 2,
+                    "reviews": 2,
+                    "score": 8
+                }
+            },
+            "media": {
+                "05742e02-3af6-4628-8cdc-3fd4074e21a6": "kyrosventures_full_white_5cc115f45a.png",
+                "2361e502-7977-4957-80ca-3d3e3bb69667": "kyber_venture_logo_e64f999a76.png",
+                "26ada7db-3131-4792-9e5b-485331a52618": "poolzventures_full_color_4d7be94bae.png",
+                "27990767-a9b7-4beb-9ede-4795f4fde9d8": "astrovventures_full_color_e2815fa345.png",
+                "3a283ca0-0e92-4fe0-aae4-7e9951014671": "pegaxy_Project_logo_71c4236879.png",
+                "4492917e-63c7-46b0-9a2f-bf7185040ee9": "pegaxy_Ver_0f926a0b6c.png",
+                "4df60bc2-052d-49e5-9b23-6ccec457a85e": "tagventures_full_color_874e84c3fc.png",
+                "5bb1c069-4c1d-4eae-9b62-131067fdab0e": "goodgamesguild_full_color_b870398bfb.png",
+                "6804842e-2bb5-4182-a734-46498eb7e811": "momentum6_full_color_d0c4e37479.png",
+                "6dee229f-cb80-4093-8d02-52d8e2a11ad4": "bapventures_full_color_70df87903e.png",
+                "8a2f48b2-8a50-4b47-be85-d044d518dc29": "asteroidcapital_full_color_2c4946f61b.png",
+                "975fafd6-4534-4faf-a70e-c93aec3983ce": "shimacapital_full_white_9643332080.png",
+                "ab382b1b-ae85-4d9f-b3f0-b3fe6e57a4e3": "tkventures_full_white_dcfbc62580.png",
+                "ccfea8d0-8c68-4a74-bab8-39228fa0f1c2": "kybernetwork_full_white_d0c33c2dfe.png",
+                "d79b7a26-c8a0-4226-8002-03d0205e3ca4": "pegaxy_Rec_671b2bbd77.png",
+                "d85f4a83-e95f-4a25-932d-439c08bbcf38": "pegaxy_Token_logo_square_658bc1639b.png",
+                "f43cc207-21fe-4a8d-a605-9d2c4ddfd393": "real_deal_guild_logo_918118a2d3.png",
+                "fe501e55-bc6a-4b91-93cd-0b5caf59650a": "crypto_comcapital_full_white_2dcd34c5f0.png",
+                "feef834e-554f-47db-a813-4e96d6be9072": "pegaxy_Banner_ba69099eca.png"
+            }
+        }
+    }
+}

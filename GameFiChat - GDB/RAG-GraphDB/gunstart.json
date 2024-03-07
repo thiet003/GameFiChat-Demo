@@ -1,0 +1,271 @@
+{
+    "data": {
+        "item": {
+            "id": "0f9abc34-1d34-46fc-8885-9dd5ed324692",
+            "status": "published",
+            "published_at": "2022-05-19T07:52:50.693Z",
+            "name": "Gunstar Metaverse",
+            "slug": "gunstar-metaverse",
+            "roadmap_text": "{\"time\":1655831014930,\"blocks\":[{\"id\":\"_KgoH0IpZK\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/roadmap_Gunstar_Metaverse_8540adeb95.png\",\"mime\":\"image/png\",\"height\":1048,\"width\":1500,\"size\":85.26,\"alt\":\"roadmap_Gunstar Metaverse.png\",\"formats\":{\"large\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/large_roadmap_Gunstar_Metaverse_8540adeb95.png\",\"hash\":\"large_roadmap_Gunstar_Metaverse_8540adeb95\",\"mime\":\"image/png\",\"name\":\"large_roadmap_Gunstar Metaverse.png\",\"path\":null,\"size\":266.46,\"width\":1000,\"height\":699},\"small\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/small_roadmap_Gunstar_Metaverse_8540adeb95.png\",\"hash\":\"small_roadmap_Gunstar_Metaverse_8540adeb95\",\"mime\":\"image/png\",\"name\":\"small_roadmap_Gunstar Metaverse.png\",\"path\":null,\"size\":95.76,\"width\":500,\"height\":349},\"medium\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/medium_roadmap_Gunstar_Metaverse_8540adeb95.png\",\"hash\":\"medium_roadmap_Gunstar_Metaverse_8540adeb95\",\"mime\":\"image/png\",\"name\":\"medium_roadmap_Gunstar Metaverse.png\",\"path\":null,\"size\":165.54,\"width\":750,\"height\":524},\"thumbnail\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/thumbnail_roadmap_Gunstar_Metaverse_8540adeb95.png\",\"hash\":\"thumbnail_roadmap_Gunstar_Metaverse_8540adeb95\",\"mime\":\"image/png\",\"name\":\"thumbnail_roadmap_Gunstar Metaverse.png\",\"path\":null,\"size\":31.16,\"width\":223,\"height\":156}}},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
+            "launchpads": [
+                {
+                    "date": "2023-02-17 10:53:44.134725827 +0000 UTC m=+55.268061483",
+                    "id": "gamefi",
+                    "name": "gamefi.org",
+                    "url": "https://gamefi.org"
+                }
+            ],
+            "introduction": "{\"time\":1655290551268,\"blocks\":[{\"id\":\"Z7d7eNRcAj\",\"type\":\"paragraph\",\"data\":{\"text\":\"Gunstar Metaverse (Gunstar) is a massively multiplayer online role-playing (RPG) and turn-based strategy NFT Game that gives you the real value of enjoyment and excitement in gaming and the real value provided through the blockchain platform.\"}},{\"id\":\"VZF8CVzEcA\",\"type\":\"paragraph\",\"data\":{\"text\":\"Gunstar is a cyber-prone game for professional gamers or any kinds of users to test their skills and corporate with their correspondents in an attempt to create the ultimate-high shoot, or even have the golden opportunities to engage in so-called whirlwind intellectual games to gain unforgettable victory.\"}},{\"id\":\"2sykxQfKTO\",\"type\":\"paragraph\",\"data\":{\"text\":\"Gunstar and Fantasy Star World will also imbue players with the experience of reality-based adventures, something that goes beyond what a mere tactic game usually offers. Enthusiasm, thrilling anticipation while playing are core to allure customers interest.\"}},{\"id\":\"WJy563MriM\",\"type\":\"paragraph\",\"data\":{\"text\":\"Let enjoy your shot, your adventure in Star World.\"}}],\"version\":\"2.23.2\"}",
+            "excerpt": "Gunstar Metaverse (Gunstar) is a massively multiplayer online role-playing (RPG) and turn-based strategy NFT Game that gives you the real value of enjoyment and excitement in gaming and the real value provided through the blockchain platform",
+            "features_text": "{\"time\":1653035670086,\"blocks\":[{\"id\":\"JtsqJO3RVQ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Turn-based artillery\"}},{\"id\":\"n617e6xDoP\",\"type\":\"paragraph\",\"data\":{\"text\":\"As a turn-based game, we focus on skill and game analysis. Moreover, players need to understand the companion pet chosen to be able to optimize their abilities. With the help of technology, in addition to the power of pets, you can also use the power of human technology to make it easier for you to adventure in the world.\"}},{\"id\":\"21TNnJ1XVR\",\"type\":\"paragraph\",\"data\":{\"text\":\"Core gameplay\"}},{\"id\":\"nca9jyQUis\",\"type\":\"paragraph\",\"data\":{\"text\":\"As a turn-based artillery game, so this game inherits all of its gameplay. Gunstar is a 2D game that bears the properties of a turn-based and ballistics simulation game. In Gunstar, players are placed on 2 opposing teams, either the enemy is AI or a player. They will take turns firing at each other with their royalty \\\"pet\\\". Each pet has 2 unique weapons, named as Normal Weapon and Ultimate Weapon. This game also has external factors affected by the result of a match, like terrains condition, winds, storms, ... acquire players to continuously change their aim and trajectory power while rethinking their strategy at the same time. The predicted trajectory system is implemented to support everyone getting into the entry point, but still, calculation skills are the key important to showing-off here.\"}},{\"id\":\"Bb_EXjlhQt\",\"type\":\"paragraph\",\"data\":{\"text\":\"Pet\"}},{\"id\":\"GBLdLJ3B2-\",\"type\":\"paragraph\",\"data\":{\"text\":\"Accompanying players are extremely powerful pets, even with summoned beasts such as dragons, phoenixes, unicorns, etc. There are a total of 23 types of pets with different strengths and abilities.\"}},{\"id\":\"5nl5BWI1Eg\",\"type\":\"paragraph\",\"data\":{\"text\":\"Especially these 23 types of pets are not the same, they are divided into many types depending on their mythological level such as: Ascended, Legendary, Elite, Rare, Normal..etc\"}},{\"id\":\"WFrdTDjItw\",\"type\":\"paragraph\",\"data\":{\"text\":\"Pet Fragment &amp; Merging system\"}},{\"id\":\"f8twUHdeJL\",\"type\":\"paragraph\",\"data\":{\"text\":\"By playing the game, especially at the Boss stage, it has a chance to drop Pet Fragment. When you collect enough Pet Fragment required for a Pet, you can choose to Merge. After that, you can choose and use it in the match.\"}},{\"id\":\"zl0nF31yFj\",\"type\":\"paragraph\",\"data\":{\"text\":\"Please take note that there will be a percentage of Merging. The more rarity it has, the harder the percentage.\"}},{\"id\":\"v_T7MKJwq_\",\"type\":\"paragraph\",\"data\":{\"text\":\"In-game item\"}},{\"id\":\"T1cwHPlJmh\",\"type\":\"paragraph\",\"data\":{\"text\":\"Besides weapons for your beloved pet, human technology also creates items to support you on every match. There are currently a few types of items:\"}},{\"id\":\"TTs4P5BxeN\",\"type\":\"mediaLib\",\"data\":{\"name\":\"mediaLibraryStrapi\"}},{\"id\":\"UBEctyfkx0\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Teleport: Teleport to a destination on a map. It has no effect if you choose outside the map\",\"Medicine: This item heal your pet, make you live longer.\",\"Double: Allow user to fire twice at the same time. Can only be used with Normal Weapon.\",\"Power Up: Allow user to fire a stronger shot. Can only be used with Ultimate Weapon.\",\"Immunity: Give you the ability of phoenix, immunity to all damage until your next turn.\",\"Shovel: Make your explosions bigger for your shot in 1 turn.\"]}},{\"id\":\"5vQlmSmrGu\",\"type\":\"paragraph\",\"data\":{\"text\":\"You can select up to 3 items for a match. The only way to get these items is using the soft currency (GSC) of the game and buying them from the fortune wheel.\"}},{\"id\":\"xw_9mhX1QS\",\"type\":\"paragraph\",\"data\":{\"text\":\"Strengthen character\"}},{\"id\":\"ZVo8xX3qBo\",\"type\":\"paragraph\",\"data\":{\"text\":\"As a hero, you will collect experience after every match you play &amp; win. Your character will become stronger and stronger over time.\"}},{\"id\":\"YztDFluqnJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Renting pet\"}},{\"id\":\"wyP3XM7YQO\",\"type\":\"paragraph\",\"data\":{\"text\":\"The main power of a fight, as always, is your pet. So the stronger pet, the easier to defeat the opponent. But sometimes, it's not as easy as talk for getting a legendary pet, so we implement the system in which you can borrow your pet from the market for a period of time.\"}},{\"id\":\"GIKT6o16EN\",\"type\":\"paragraph\",\"data\":{\"text\":\"Once the pet has been rent, you are allowed to use its full features during the activating time. You need to pay the Pet's owner a fee depending on the market.\"}}],\"version\":\"2.23.2\"}",
+            "banners": [
+                {
+                    "desktop": "3b70776e-5fa8-496b-ba54-ba4623a4427b",
+                    "mobile": "3b70776e-5fa8-496b-ba54-ba4623a4427b"
+                }
+            ],
+            "logos": [
+                {
+                    "desktop": "08e93aa7-bb8c-43ba-9471-fb3ba21bcd68",
+                    "mobile": "08e93aa7-bb8c-43ba-9471-fb3ba21bcd68"
+                }
+            ],
+            "twitter_id": "1401592429938196480",
+            "links": {
+                "blog": "",
+                "coinmarketcap": "https://coinmarketcap.com/currencies/gunstar-metaverse/",
+                "discord": "https://discord.gg/cE2RD43Snn",
+                "facebook": "",
+                "instagram": "",
+                "medium": "",
+                "reddit": "",
+                "telegram": "https://t.me/GunStarGlobal",
+                "telegramAnnouncementChannel": "https://t.me/GunStarAnnouncements",
+                "tiktok": "",
+                "twitch": "",
+                "twitter": "https://twitter.com/GunStar_io",
+                "website": "https://gunstar.io/",
+                "youtube": "https://www.youtube.com/c/GunstarMetaverse"
+            },
+            "release_status": "official",
+            "play_mode": "{\"time\":1655350087108,\"blocks\":[{\"id\":\"_j5Qlpx-L_\",\"type\":\"paragraph\",\"data\":{\"text\":\"Gunstar is a 2D game that bears the properties of a turn-based and ballistics simulation game. <br><br>In Gunstar, players are placed on 2 opposing teams, the opponent either is an AI monster or a player. They will take turns firing at each other with their pet.<br><br>Each pet has 3 unique skills; 2 normal skill and an Ultimate skill. <br><br>This game also has external factors affected by the result of a match, like terrains condition, winds, and storms. This require players to continuously change their aim and trajectory power while rethinking their strategy at the same time. <br><br>The predictive trajectory system is implemented to assist new players to understand the game quicker, but since it doesn't terrains, winds, and weather conditions, players still need skill, experience and calculation in order to beat the opponent.\"}}],\"version\":\"2.23.2\"}",
+            "vertical_thumbnail": "ddd03dc1-28f4-46a7-b8bd-d4a8cb75fdbf",
+            "rectangle_thumbnail": "83d70e3c-a819-467f-9bf6-8aafebca8127",
+            "tokenomics_compact": [
+                {
+                    "id": "0ea1fa3d-71e7-4f82-94b7-5924db580c7d",
+                    "valuation": 14000000,
+                    "market_cap": 74209.87115408057,
+                    "market_cap_init": 696920,
+                    "market_cap_fully_diluted": 948663.375,
+                    "market_cap_self_reported": 369388.4375,
+                    "token_symbol": "GSTS",
+                    "icon": "da74a0ef-88f6-4cf2-991e-e52057dac002",
+                    "current_price": 0.002371658571064472,
+                    "public_price": 0.035,
+                    "highest_price": 1.49,
+                    "reported_ath": 0,
+                    "chart_symbol": "GSTSUSDT",
+                    "init_token_circulation": 19912000,
+                    "init_valuation": 0,
+                    "coinmarketcap_slug": "gunstar-metaverse",
+                    "coingecko_slug": "gunstar-metaverse",
+                    "price_change_24_h": -1.6814262,
+                    "price_change_7_d": 19.82392659,
+                    "price_change_30_d": 5.02279081,
+                    "price_change_90_d": 121.95394964,
+                    "volume_24_h": 18598.64942997,
+                    "volume_change_24_h": -2.1248,
+                    "total_supply": 400000000,
+                    "max_supply": 400000000,
+                    "type": null,
+                    "is_primary": false
+                }
+            ],
+            "studios": [
+                {
+                    "id": "b9c2870d-2a97-49d5-8042-ef4642681d98",
+                    "name": "Gunstar Labs",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/hoanghiepgunstar/",
+                            "name": "Hoang Hiep",
+                            "avatar": "47b11103-52f4-4152-ac57-165c78732512.jpg",
+                            "position": "CEO"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/dieptrantuan88/",
+                            "name": "Tuan Diep",
+                            "position": "CTO"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/minh-nhat-9701b4146/",
+                            "name": "Minh Nhat",
+                            "avatar": "748f3c65-f2f3-4dbd-88cf-b7ec675286f2.jpg",
+                            "position": "CMO"
+                        }
+                    ],
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                }
+            ],
+            "backers": [
+                {
+                    "id": 49,
+                    "logo": "94727443-7ec8-406d-aeb4-bdd3724e5912",
+                    "name": "Black Ventures",
+                    "links": {
+                        "website": "https://blackventures.co/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 299,
+                    "logo": "c147c6af-5186-4fe4-9748-df0f792cc53e",
+                    "name": "Spark Digital Capital",
+                    "links": {
+                        "website": "https://sparkdigitalcapital.com/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 330,
+                    "logo": "fdadbf9b-95e4-4258-912d-e94e5c873cb6",
+                    "name": "Wings Ventures",
+                    "links": {
+                        "website": "https://thewingsventures.com/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 345,
+                    "logo": "262c179d-8494-4ace-a3fa-e0dc26991f4e",
+                    "name": "Hashed Fund",
+                    "links": {
+                        "website": "https://www.hashed.com/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 347,
+                    "logo": "2cfc5b27-cacb-4022-ad58-55f0b825970f",
+                    "name": "DAO Maker",
+                    "links": {
+                        "website": "https://daomaker.com/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 348,
+                    "logo": "04f8ec7f-7bb8-45fc-a7d3-d07bb2161ac5",
+                    "name": "GuildFi",
+                    "links": {
+                        "website": "https://guildfi.com/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 350,
+                    "logo": "835f5a3c-97aa-4d6e-bba2-a5637391e377",
+                    "name": "Icetea Labs",
+                    "links": {
+                        "website": "https://icetea.io/#/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 367,
+                    "logo": "e47bd3f6-2a1c-4fd0-862d-8270db832914",
+                    "name": "Magnus Capital",
+                    "links": {
+                        "website": "https://magnusdigitalassets.com/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                },
+                {
+                    "id": 373,
+                    "logo": "097390ec-8656-4767-8d70-35226f9e8016",
+                    "name": "Raptor Capital",
+                    "links": {
+                        "website": "https://www.raptorcapital.io/"
+                    },
+                    "game_ids": [
+                        "0f9abc34-1d34-46fc-8885-9dd5ed324692"
+                    ]
+                }
+            ],
+            "categories": [
+                {
+                    "id": "b1567483-a9de-4a21-8228-7b60a798d795",
+                    "name": "Role-playing",
+                    "slug": "role-playing"
+                },
+                {
+                    "id": "cc0ebf3e-ec87-430b-8b10-0e9402393f6d",
+                    "name": "Idle",
+                    "slug": "idle"
+                },
+                {
+                    "id": "862bdfbf-7341-4185-8f98-611a0d539325",
+                    "name": "Turn-based",
+                    "slug": "turn-based"
+                }
+            ],
+            "networks": [
+                {
+                    "network": "bsc"
+                }
+            ],
+            "game_graveyard": null,
+            "report_gamefi_rank": "A"
+        },
+        "metadata": {
+            "counts": {
+                "0f9abc34-1d34-46fc-8885-9dd5ed324692": {
+                    "avg_star_rating": 4,
+                    "dislikes": 0,
+                    "ga_views": 3106,
+                    "likes": 10635,
+                    "percentile": 41,
+                    "ratings": 6159,
+                    "reviews": 153,
+                    "score": 30785
+                }
+            },
+            "media": {
+                "04f8ec7f-7bb8-45fc-a7d3-d07bb2161ac5": "guildfi_full_white_21d61a57c3.png",
+                "08e93aa7-bb8c-43ba-9471-fb3ba21bcd68": "Gunstart_tokenicon_9500675829.png",
+                "097390ec-8656-4767-8d70-35226f9e8016": "raptorcapital_full_white_fae0e63a14.png",
+                "262c179d-8494-4ace-a3fa-e0dc26991f4e": "hashed_white_logo_fococlipping_standard_b03480102e.png",
+                "2cfc5b27-cacb-4022-ad58-55f0b825970f": "daomaker_white_d02232f9b3.png",
+                "3b70776e-5fa8-496b-ba54-ba4623a4427b": "gunstar_Banner_01b6f8769b.png",
+                "835f5a3c-97aa-4d6e-bba2-a5637391e377": "icetealabs_full_white_9ccf0c6e07.png",
+                "83d70e3c-a819-467f-9bf6-8aafebca8127": "gunstar_Rectangle_89c822845e.png",
+                "94727443-7ec8-406d-aeb4-bdd3724e5912": "blackventures_full_color_4350bd43a3.png",
+                "c147c6af-5186-4fe4-9748-df0f792cc53e": "sparkdigitalcapital_full_color_505c5d1557.png",
+                "da74a0ef-88f6-4cf2-991e-e52057dac002": "Gunstart_tokenicon_9500675829.png",
+                "ddd03dc1-28f4-46a7-b8bd-d4a8cb75fdbf": "gunstar_Vertical_120899e236.png",
+                "e47bd3f6-2a1c-4fd0-862d-8270db832914": "magnuscapital_full_white_b6e3f78751.png",
+                "fdadbf9b-95e4-4258-912d-e94e5c873cb6": "wingsventures_full_color_618daef288.png"
+            }
+        }
+    }
+}

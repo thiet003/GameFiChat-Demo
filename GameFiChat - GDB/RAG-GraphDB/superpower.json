@@ -1,0 +1,197 @@
+{
+    "data": {
+        "item": {
+            "id": "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d",
+            "status": "published",
+            "published_at": "2023-02-08T07:31:29.286Z",
+            "name": "Superpower Squad",
+            "slug": "superpower-squad",
+            "roadmap_text": "{\"time\":1675841842183,\"blocks\":[{\"id\":\"burahtSVEw\",\"type\":\"paragraph\",\"data\":{\"text\":\"2021 Q1 \"}},{\"id\":\"lZiZnX8wTG\",\"type\":\"paragraph\",\"data\":{\"text\":\"Game Engine Design   Complete \"}},{\"id\":\"-JombezgJv\",\"type\":\"paragraph\",\"data\":{\"text\":\"Game Art Design   Complete&nbsp;2021 Q2 \"}},{\"id\":\"x_fivg6i0Z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Hero Design   Complete \"}},{\"id\":\"gDCWj_P7JA\",\"type\":\"paragraph\",\"data\":{\"text\":\"Battle Maps Designed  Complete&nbsp;Alpha Demo   Complete \"}},{\"id\":\"ZEtPfXS_hJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"2021 Q3 \"}},{\"id\":\"4hjuWAJSmB\",\"type\":\"paragraph\",\"data\":{\"text\":\"Missions, Teams, and Leaderboards  Complete \"}},{\"id\":\"4oHHynfHbC\",\"type\":\"paragraph\",\"data\":{\"text\":\"Leaderboards   Complete&nbsp;Game Mode: Gem Battle   Complete \"}},{\"id\":\"-2tHXB76cI\",\"type\":\"paragraph\",\"data\":{\"text\":\"2021 Q4 \"}},{\"id\":\"G4_2BPUjjd\",\"type\":\"paragraph\",\"data\":{\"text\":\"Quests and Ranking System   Complete \"}},{\"id\":\"nToMLuTN-9\",\"type\":\"paragraph\",\"data\":{\"text\":\"Web3 wallet and NFT integrations   Complete&nbsp;2022 Q1 \"}},{\"id\":\"cuze1-AaeS\",\"type\":\"paragraph\",\"data\":{\"text\":\"Game Mode: Battle Royal  Complete \"}},{\"id\":\"6uxmNYEQ2A\",\"type\":\"paragraph\",\"data\":{\"text\":\"Friend/ Social functions   Complete&nbsp;Website Launch   Complete \"}},{\"id\":\"CiY1I0U2PH\",\"type\":\"paragraph\",\"data\":{\"text\":\"SPS Social Media Launch   Complete2022 Q2\"}},{\"id\":\"g1ifblbjdc\",\"type\":\"paragraph\",\"data\":{\"text\":\"Game Mode: Death Match   Complete \"}},{\"id\":\"nTuWt1neqQ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Squads / Clans Launch   Complete&nbsp;iOS and Android Beta v1 Launch   Complete\"}},{\"id\":\"XaJgGRifPW\",\"type\":\"paragraph\",\"data\":{\"text\":\" 2022 Q3 \"}},{\"id\":\"-kBWFOlUKZ\",\"type\":\"paragraph\",\"data\":{\"text\":\"iOS and Android Beta v2 Launch   Complete \"}},{\"id\":\"6Lu117rt9P\",\"type\":\"paragraph\",\"data\":{\"text\":\"Game Mode: Zombie Survival   Complete&nbsp;Fundraising Begins   Complete \"}},{\"id\":\"D6RYr0ZnXG\",\"type\":\"paragraph\",\"data\":{\"text\":\"2022 Q4 \"}},{\"id\":\"J4cbJCkK2O\",\"type\":\"paragraph\",\"data\":{\"text\":\"NFT Marketplace Launch   Complete\"}},{\"id\":\"u4TGDqI4oi\",\"type\":\"paragraph\",\"data\":{\"text\":\" Web3 Custodial Wallet Launch   Complete&nbsp;Full Game Launch   Complete \"}},{\"id\":\"ubIRhAonA8\",\"type\":\"paragraph\",\"data\":{\"text\":\"TGE and IDO Launchpad   Complete&nbsp;2023 Q1 \"}},{\"id\":\"4L1lke30WC\",\"type\":\"paragraph\",\"data\":{\"text\":\"Weapons System Launch    Complete\"}},{\"id\":\"xxsJczQ6mt\",\"type\":\"paragraph\",\"data\":{\"text\":\" Begin Ad Campaigns \"}},{\"id\":\"bJ1sSMxfZf\",\"type\":\"paragraph\",\"data\":{\"text\":\"  Application SideChain \"}},{\"id\":\"VsQlWVzBOL\",\"type\":\"paragraph\",\"data\":{\"text\":\"  2023 Q2 \"}},{\"id\":\"4YgXmX5nbm\",\"type\":\"paragraph\",\"data\":{\"text\":\"Matchplay Tournaments Launch\"}},{\"id\":\"xMG5Fc_r7x\",\"type\":\"paragraph\",\"data\":{\"text\":\"Squads / Clans Launched \"}},{\"id\":\"bu3xFsUb3d\",\"type\":\"paragraph\",\"data\":{\"text\":\"Series A Growth Fundraising\"}},{\"id\":\"DBCdqVNw6m\",\"type\":\"paragraph\",\"data\":{\"text\":\"2023 Q3 \"}},{\"id\":\"-6pa56Lr4K\",\"type\":\"paragraph\",\"data\":{\"text\":\"Home System \"}},{\"id\":\"16dlYn5b7K\",\"type\":\"paragraph\",\"data\":{\"text\":\"Spectator Mode and Betting Launch\"}},{\"id\":\"tuM4SYfDu-\",\"type\":\"paragraph\",\"data\":{\"text\":\"2023 Q4 \"}},{\"id\":\"RE3yXoY-0k\",\"type\":\"paragraph\",\"data\":{\"text\":\"UGC Mode Launch&nbsp;&nbsp;\"}}],\"version\":\"2.23.2\"}",
+            "introduction": "{\"time\":1675840088973,\"blocks\":[{\"id\":\"G49x59b6mJ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Superpower Squad is a blockchain technology-based third-person-shooter game consists of gameplays such as MOBA, RPG, and Roguelike. The game supports solo and team modes, with immersive gaming experience, diverse game mode, and delicate hero &amp; skin &amp; weapon synthesis and upgrade system. Superpower Squad is going to bring eSports culture to web3 for all players. The mobile app has integrated a native in-app wallet to lower down the learning cost of web2 gamers. With innovative gaming model and user-friendly blockchain infrastructure, Superpower Squad will lead the eSports in web3 industry.\"}}],\"version\":\"2.23.2\"}",
+            "description": "{\"time\":1675840098572,\"blocks\":[],\"version\":\"2.23.2\"}",
+            "excerpt": "Superpower Squad is a blockchain technology-based third-person-shooter game consists of gameplays such as MOBA, RPG, and Roguelike.",
+            "features_text": "{\"time\":1676283008227,\"blocks\":[{\"id\":\"R1NDJJLNnM\",\"type\":\"paragraph\",\"data\":{\"text\":\"-With eSport spirit, fun, fast competitive multi-genre 3rd person mobile shooter.\"}},{\"id\":\"yA5RlJTjqF\",\"type\":\"paragraph\",\"data\":{\"text\":\"-Innovative blockchain integration, in-app wallet/purchase/marketplace\"}},{\"id\":\"91LsWW8hH2\",\"type\":\"paragraph\",\"data\":{\"text\":\"-UGC(User Generated Content) mode to drive a creative community and user-generated wealth.\"}},{\"id\":\"jbHF94T0Sl\",\"type\":\"paragraph\",\"data\":{\"text\":\"-Deflationary game economy, high playability and sustainability\"}},{\"id\":\"DASQuwOjoj\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/photo_2023_01_10_14_22_55_33c61d7c2a.jpg\"},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
+            "banners": [
+                {
+                    "desktop": "de38715c-80b1-474a-809b-91fd434b8855",
+                    "mobile": "de38715c-80b1-474a-809b-91fd434b8855"
+                }
+            ],
+            "logos": [
+                {
+                    "desktop": "fee85a0d-f4be-4adb-a25e-61a7ca0027bb",
+                    "mobile": "fee85a0d-f4be-4adb-a25e-61a7ca0027bb"
+                }
+            ],
+            "twitter_id": "2693949454",
+            "links": {
+                "blog": "",
+                "coinmarketcap": "https://coinmarketcap.com/currencies/superpower-squad/",
+                "discord": "https://discord.com/channels/934099502372118611/935665644593115177",
+                "facebook": "",
+                "instagram": "https://www.instagram.com/superpower_squad_official/",
+                "medium": "https://medium.com/@Superpower_Squad/",
+                "reddit": "",
+                "telegram": "https://t.me/Superpower_Squad",
+                "telegramAnnouncementChannel": "https://t.me/SuperpowerSquadAnnouncement",
+                "tiktok": "https://www.tiktok.com/@superpowersquad_official",
+                "twitch": "",
+                "twitter": "https://twitter.com/Superpow_Squad",
+                "website": "https://ssquad.games/",
+                "youtube": "https://www.youtube.com/c/SuperpowerSquadGame-Official"
+            },
+            "release_status": "official",
+            "play_mode": "{\"time\":1675841481427,\"blocks\":[{\"id\":\"ooJHF9l7Sy\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/preview_deathmatch_845e741b18.png\"},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}},{\"id\":\"TsCm1lGc7S\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/preview_grabgem_ad1b5feb18.png\"},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}},{\"id\":\"7dYETbLI92\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/emergency_a7ab849dc4.png\"},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}},{\"id\":\"CoqAdrdLcc\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/preview_zombiecrysis_4a3be3a4df.png\"},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
+            "play_to_earn_model": "{\"time\":1675841481439,\"blocks\":[{\"id\":\"WZlcSsc6pa\",\"type\":\"paragraph\",\"data\":{\"text\":\"The Superpower Squad economics model consists 2 tokens $SQUAD and $ECG.\"}},{\"id\":\"MeqNM9QVt5\",\"type\":\"paragraph\",\"data\":{\"text\":\"$SQUAD is our governance token, which can be staked to earn $VSQUAD and voting rights. It is an essential consumption for in-game item synthesis and upgrade.\"}},{\"id\":\"419T3EO-Iy\",\"type\":\"paragraph\",\"data\":{\"text\":\"$ECG is our utility token. Users can purchase mystery boxes; upgrade and synthesize in-game items. It has a stable price of $0.01.\"}},{\"id\":\"YMlgEPrnlO\",\"type\":\"mediaLib\",\"data\":{\"name\":\"mediaLibraryStrapi\"}},{\"id\":\"dyh9OiajIm\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/superpower_squad_earn_mode_25feefed6b.png\",\"mime\":\"image/png\",\"height\":592,\"width\":1280,\"size\":144.26,\"alt\":\"superpower squad earn mode.png\",\"formats\":{\"large\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/large_superpower_squad_earn_mode_25feefed6b.png\",\"hash\":\"large_superpower_squad_earn_mode_25feefed6b\",\"mime\":\"image/png\",\"name\":\"large_superpower squad earn mode.png\",\"path\":null,\"size\":429.78,\"width\":1000,\"height\":463},\"small\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/small_superpower_squad_earn_mode_25feefed6b.png\",\"hash\":\"small_superpower_squad_earn_mode_25feefed6b\",\"mime\":\"image/png\",\"name\":\"small_superpower squad earn mode.png\",\"path\":null,\"size\":124.05,\"width\":500,\"height\":231},\"medium\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/medium_superpower_squad_earn_mode_25feefed6b.png\",\"hash\":\"medium_superpower_squad_earn_mode_25feefed6b\",\"mime\":\"image/png\",\"name\":\"medium_superpower squad earn mode.png\",\"path\":null,\"size\":256.31,\"width\":750,\"height\":347},\"thumbnail\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/thumbnail_superpower_squad_earn_mode_25feefed6b.png\",\"hash\":\"thumbnail_superpower_squad_earn_mode_25feefed6b\",\"mime\":\"image/png\",\"name\":\"thumbnail_superpower squad earn mode.png\",\"path\":null,\"size\":37.86,\"width\":245,\"height\":113}}},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
+            "vertical_thumbnail": "ab86918d-903c-477d-b5a9-a8e8d1adca9c",
+            "rectangle_thumbnail": "47e2ecc4-4810-4c25-a63b-2464bd329394",
+            "tokenomics_compact": [
+                {
+                    "id": "d0482d7f-d4b6-4ec4-815e-b034a969ef0d",
+                    "valuation": 35000000,
+                    "market_cap": 288246.05125224445,
+                    "market_cap_init": 2300000,
+                    "market_cap_fully_diluted": 2300447.25,
+                    "market_cap_self_reported": 288246.0625,
+                    "token_symbol": "SQUAD",
+                    "icon": "a288e145-e532-4408-83ad-8367f0823d6e",
+                    "current_price": 0.002300447318702936,
+                    "public_price": 0.035,
+                    "highest_price": 0.089718,
+                    "reported_ath": 0,
+                    "chart_symbol": "SQUADUSDT",
+                    "init_token_circulation": 12000000,
+                    "init_valuation": 0,
+                    "coinmarketcap_slug": "superpower-squad",
+                    "coingecko_slug": "squad",
+                    "price_change_24_h": -4.99400195,
+                    "price_change_7_d": 4.3397844,
+                    "price_change_30_d": 5.02676914,
+                    "price_change_90_d": 9.87881093,
+                    "volume_24_h": 1073196.3199974,
+                    "volume_change_24_h": -58.8144,
+                    "total_supply": 1000000000,
+                    "max_supply": 1000000000,
+                    "type": null,
+                    "is_primary": false
+                }
+            ],
+            "studios": [
+                {
+                    "id": "4b8a9083-237b-48ae-ada4-0335fc3790c6",
+                    "name": "Superpower Squad",
+                    "link": "http://ssquad.games",
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/gregorygopman",
+                            "name": "Greg Gopman",
+                            "avatar": "profile_greg_18eddd1f65.png",
+                            "position": "CEO",
+                            "description": ""
+                        },
+                        {
+                            "link": "",
+                            "name": "Pony Zhang",
+                            "avatar": "profile_pony_9890010f8d.png",
+                            "position": "CTO",
+                            "description": ""
+                        }
+                    ],
+                    "game_ids": [
+                        "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d"
+                    ]
+                }
+            ],
+            "backers": [
+                {
+                    "id": 20,
+                    "logo": "77bfcf50-3904-43ce-b3cc-4b91f8a6ae9a",
+                    "name": "Ankr",
+                    "links": {
+                        "website": "https://www.ankr.com/"
+                    },
+                    "game_ids": [
+                        "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d"
+                    ]
+                }
+            ],
+            "categories": [
+                {
+                    "id": "b1567483-a9de-4a21-8228-7b60a798d795",
+                    "name": "Role-playing",
+                    "slug": "role-playing"
+                },
+                {
+                    "id": "7163b00a-ef5e-4bce-9547-f3d0f408f5e8",
+                    "name": "Metaverse",
+                    "slug": "metaverse"
+                },
+                {
+                    "id": "cdb105f0-88bc-4f86-bf63-f17388c0a8f6",
+                    "name": "Others",
+                    "slug": "others"
+                },
+                {
+                    "id": "d53a29ef-1f25-47ea-87ec-093fb1d03c84",
+                    "name": "NFT",
+                    "slug": "nft"
+                },
+                {
+                    "id": "6ebba192-7a68-405c-b7b9-a5f5adc28030",
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "downloads": [
+                {
+                    "id": "8de196f9-30f6-4fb2-80fc-d67cb1dcf0c6",
+                    "type": "web",
+                    "link": "https://ssquad.games",
+                    "version": "0"
+                },
+                {
+                    "id": "b4a1febd-fd96-4053-ab49-834fa773a173",
+                    "type": "android",
+                    "link": "https://play.google.com/store/apps/details?id=com.skythunder.superpowersquad",
+                    "version": "0"
+                },
+                {
+                    "id": "dd4ed2fd-f2a0-4a5d-8072-40d060501a28",
+                    "type": "ios",
+                    "link": "https://apps.apple.com/app/superpower-squad/id1626796844",
+                    "version": "0"
+                }
+            ],
+            "networks": [
+                {
+                    "network": "bsc"
+                }
+            ],
+            "game_graveyard": null,
+            "report_gamefi_rank": "C"
+        },
+        "metadata": {
+            "counts": {
+                "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d": {
+                    "avg_star_rating": 4,
+                    "dislikes": 0,
+                    "f81087ad-85af-4f7b-854d-4d35c21a4a64_votes": 669,
+                    "ga_views": 3664,
+                    "likes": 634,
+                    "percentile": 41,
+                    "ratings": 575,
+                    "reviews": 226,
+                    "score": 2836
+                }
+            },
+            "media": {
+                "47e2ecc4-4810-4c25-a63b-2464bd329394": "superpower_squad_Rec_6abe8464ee.png",
+                "77bfcf50-3904-43ce-b3cc-4b91f8a6ae9a": "ankr_full_color_bb08d1755b.png",
+                "a288e145-e532-4408-83ad-8367f0823d6e": "SQUAD_80_X80_ffebf29ba1.png",
+                "ab86918d-903c-477d-b5a9-a8e8d1adca9c": "superpower_squad_396_X544_c6d0856b61.jpg",
+                "de38715c-80b1-474a-809b-91fd434b8855": "superpower_squad_Banner_bd799a3e01.png",
+                "fee85a0d-f4be-4adb-a25e-61a7ca0027bb": "superpower_squad_Project_logo_9aa090bcc3.png"
+            }
+        }
+    }
+}

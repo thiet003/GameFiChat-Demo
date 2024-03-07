@@ -1,0 +1,266 @@
+{
+    "data": {
+        "item": {
+            "id": "3df2ee8f-df08-4604-b101-b59e0b3387db",
+            "status": "published",
+            "published_at": "2022-06-15T02:49:25.906Z",
+            "name": "Gods Unchained",
+            "slug": "gods-unchained",
+            "roadmap_text": "{\"time\":1655710396031,\"blocks\":[{\"id\":\"Jwn6jS3Jiu\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/image1_2f8a793d11.png\",\"mime\":\"image/png\",\"height\":858,\"width\":1530,\"size\":134.07,\"alt\":\"https://gamefi-public.s3.amazonaws.com/aggregator/optimized/gods-unchained/image1.png\",\"formats\":{\"large\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/large_image1_2f8a793d11.png\",\"hash\":\"large_image1_2f8a793d11\",\"mime\":\"image/png\",\"name\":\"large_https://gamefi-public.s3.amazonaws.com/aggregator/optimized/gods-unchained/image1.png\",\"path\":null,\"size\":232.6,\"width\":1000,\"height\":561},\"small\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/small_image1_2f8a793d11.png\",\"hash\":\"small_image1_2f8a793d11\",\"mime\":\"image/png\",\"name\":\"small_https://gamefi-public.s3.amazonaws.com/aggregator/optimized/gods-unchained/image1.png\",\"path\":null,\"size\":77.09,\"width\":500,\"height\":280},\"medium\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/medium_image1_2f8a793d11.png\",\"hash\":\"medium_image1_2f8a793d11\",\"mime\":\"image/png\",\"name\":\"medium_https://gamefi-public.s3.amazonaws.com/aggregator/optimized/gods-unchained/image1.png\",\"path\":null,\"size\":149.32,\"width\":750,\"height\":421},\"thumbnail\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/thumbnail_image1_2f8a793d11.png\",\"hash\":\"thumbnail_image1_2f8a793d11\",\"mime\":\"image/png\",\"name\":\"thumbnail_https://gamefi-public.s3.amazonaws.com/aggregator/optimized/gods-unchained/image1.png\",\"path\":null,\"size\":28.61,\"width\":245,\"height\":137}}},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
+            "introduction": "{\"time\":1652950755470,\"blocks\":[{\"id\":\"SBeTWXwap2\",\"type\":\"paragraph\",\"data\":{\"text\":\"Gods Unchained is a free-to-play tactical card game that gives players true ownership of their in-game items. Led by the former game director of Magic The Gathering: Arena, the game focuses on competitive play, which means players must strategically outsmart their opponents by building decks that are able to combat a wide variety of tactics. In Gods Unchained players completely own their digital items, giving them the freedom to trade, sell and use their cards any way they like just like owning real, tangible cards.\"}}],\"version\":\"2.23.2\"}",
+            "description": "{\"time\":1655711440758,\"blocks\":[],\"version\":\"2.23.2\"}",
+            "excerpt": "Gods Unchained is a free-to-play tactical card game that gives players true ownership of their in-game items.",
+            "features_text": "{\"time\":1655711378545,\"blocks\":[{\"id\":\"kniUUvDMpw\",\"type\":\"mediaLib\",\"data\":{\"name\":\"mediaLibraryStrapi\"}},{\"id\":\"QlB4Ckzkqk\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://gamefi-cms.s3.ap-southeast-1.amazonaws.com/pasted_image_0_1_5c5dc78e72.png\",\"mime\":\"image/png\",\"height\":900,\"width\":1600,\"size\":470.74,\"alt\":\"pasted image 0 (1).png\",\"formats\":{\"large\":{\"ext\":\".png\",\"url\":\"https://gamefi-cms.s3.ap-southeast-1.amazonaws.com/large_pasted_image_0_1_5c5dc78e72.png\",\"hash\":\"large_pasted_image_0_1_5c5dc78e72\",\"mime\":\"image/png\",\"name\":\"large_pasted image 0 (1).png\",\"path\":null,\"size\":864.2,\"width\":1000,\"height\":563},\"small\":{\"ext\":\".png\",\"url\":\"https://gamefi-cms.s3.ap-southeast-1.amazonaws.com/small_pasted_image_0_1_5c5dc78e72.png\",\"hash\":\"small_pasted_image_0_1_5c5dc78e72\",\"mime\":\"image/png\",\"name\":\"small_pasted image 0 (1).png\",\"path\":null,\"size\":232.39,\"width\":500,\"height\":281},\"medium\":{\"ext\":\".png\",\"url\":\"https://gamefi-cms.s3.ap-southeast-1.amazonaws.com/medium_pasted_image_0_1_5c5dc78e72.png\",\"hash\":\"medium_pasted_image_0_1_5c5dc78e72\",\"mime\":\"image/png\",\"name\":\"medium_pasted image 0 (1).png\",\"path\":null,\"size\":496.19,\"width\":750,\"height\":422},\"thumbnail\":{\"ext\":\".png\",\"url\":\"https://gamefi-cms.s3.ap-southeast-1.amazonaws.com/thumbnail_pasted_image_0_1_5c5dc78e72.png\",\"hash\":\"thumbnail_pasted_image_0_1_5c5dc78e72\",\"mime\":\"image/png\",\"name\":\"thumbnail_pasted image 0 (1).png\",\"path\":null,\"size\":65.79,\"width\":245,\"height\":138}}},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}},{\"id\":\"mI0YoL8Yy6\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Card anatomy</b>\"}},{\"id\":\"JNXQfuqbVO\",\"type\":\"paragraph\",\"data\":{\"text\":\"Domain\"}},{\"id\":\"hyqhV9-liY\",\"type\":\"paragraph\",\"data\":{\"text\":\"Set\"}},{\"id\":\"99slwEvL5Z\",\"type\":\"paragraph\",\"data\":{\"text\":\"Rarity\"}},{\"id\":\"Uf3elyMq-D\",\"type\":\"paragraph\",\"data\":{\"text\":\"Tribe\"}},{\"id\":\"aQsIZ6imUW\",\"type\":\"paragraph\",\"data\":{\"text\":\"Stats/utility\"}},{\"id\":\"8-U3nPQLz4\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Card types</b>\"}},{\"id\":\"V3naoIJpsZ\",\"type\":\"paragraph\",\"data\":{\"text\":\"Creature\"}},{\"id\":\"EKau2KAiYL\",\"type\":\"paragraph\",\"data\":{\"text\":\"Spell\"}},{\"id\":\"krBKXwwQti\",\"type\":\"paragraph\",\"data\":{\"text\":\"Relic\"}},{\"id\":\"ce24Eeu5Ki\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Card quality</b>\"}},{\"id\":\"_teSZ2A_Dd\",\"type\":\"paragraph\",\"data\":{\"text\":\"Plain\"}},{\"id\":\"9Nscc9oN8g\",\"type\":\"paragraph\",\"data\":{\"text\":\"Shiny\"}}],\"version\":\"2.23.2\"}",
+            "banners": [
+                {
+                    "desktop": "b7225b3f-1925-495e-ae87-97610879ac1b",
+                    "mobile": "b7225b3f-1925-495e-ae87-97610879ac1b"
+                }
+            ],
+            "logos": [
+                {
+                    "desktop": "5891c209-3f68-448d-88d6-c2e97dee4c33",
+                    "mobile": "5891c209-3f68-448d-88d6-c2e97dee4c33"
+                }
+            ],
+            "twitter_id": "1004945445263536128",
+            "links": {
+                "blog": "",
+                "coinmarketcap": "https://coinmarketcap.com/currencies/gods-unchained/",
+                "discord": "https://discord.gg/godsunchained",
+                "facebook": "https://www.facebook.com/godsunchained/",
+                "instagram": "",
+                "medium": "",
+                "reddit": "",
+                "telegram": "",
+                "telegramAnnouncementChannel": "",
+                "tiktok": "",
+                "twitch": "https://www.twitch.tv/godsunchained/videos",
+                "twitter": "https://twitter.com/GodsUnchained",
+                "website": "https://godsunchained.com/",
+                "youtube": "https://www.youtube.com/channel/UCGQ1oWpKFfjsLYiTYALAlSA"
+            },
+            "release_status": "official",
+            "play_to_earn_model": "{\"time\":1655712343013,\"blocks\":[{\"id\":\"-oxb0FgY_w\",\"type\":\"paragraph\",\"data\":{\"text\":\"170,000,000 $GODS tokens (34% of total) are reserved for the Play to Earn Rewards pool. This is the largest allocation as Play to Earn is the key value proposition of Gods Unchained. With this rewards pool, we aim to attract a large group of active players to participate in the Gods Unchained ecosystem. A fixed amount of $GODS tokens will be allocated to a variety of Play to Earn campaigns such as:\"}},{\"id\":\"pB-5Gc8vxR\",\"type\":\"paragraph\",\"data\":{\"text\":\"Weekend Ranked reward\"}},{\"id\":\"Ukdg89hF_2\",\"type\":\"paragraph\",\"data\":{\"text\":\"Daily token reward system\"}},{\"id\":\"TV5pbmOZHL\",\"type\":\"paragraph\",\"data\":{\"text\":\"Quest\"}},{\"id\":\"mW4GiYA-ev\",\"type\":\"paragraph\",\"data\":{\"text\":\"Seasonal reward\"}},{\"id\":\"1slVaSu7zC\",\"type\":\"paragraph\",\"data\":{\"text\":\"Tournament\"}},{\"id\":\"7YtyaT0vLd\",\"type\":\"paragraph\",\"data\":{\"text\":\"Special game modes\"}}],\"version\":\"2.23.2\"}",
+            "vertical_thumbnail": "7568de56-df16-4635-9fc7-d22332c59d04",
+            "rectangle_thumbnail": "865e0e92-8bea-43e0-ac5d-74990cbc6453",
+            "tokenomics_compact": [
+                {
+                    "id": "5a612571-fbe3-4855-a9e7-5a67d9e0ef4b",
+                    "valuation": 168000000,
+                    "market_cap": 75056893.15161614,
+                    "market_cap_init": 11331600,
+                    "market_cap_fully_diluted": 137648912,
+                    "market_cap_self_reported": 39018172,
+                    "token_symbol": "GODS",
+                    "icon": "3419bd1d-0f3c-4483-8726-c7b0d1c30c91",
+                    "current_price": 0.2752978205680847,
+                    "public_price": 0.336,
+                    "highest_price": 8.8,
+                    "reported_ath": 0,
+                    "chart_symbol": "GODSUSDT",
+                    "init_token_circulation": 33725000,
+                    "init_valuation": 0,
+                    "coinmarketcap_slug": "gods-unchained",
+                    "coingecko_slug": "gods-unchained",
+                    "price_change_24_h": -5.03882429,
+                    "price_change_7_d": -14.95367764,
+                    "price_change_30_d": 1.282676,
+                    "price_change_90_d": -29.6437116,
+                    "volume_24_h": 1194935.15956679,
+                    "volume_change_24_h": -52.6839,
+                    "total_supply": 500000000,
+                    "max_supply": 500000000,
+                    "type": null,
+                    "is_primary": false
+                }
+            ],
+            "studios": [
+                {
+                    "id": "262877b9-120c-4ad9-8e9b-be9069cfbaec",
+                    "name": "Immutable",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/cclay/",
+                            "name": "Chris Clay",
+                            "avatar": "073435cd-80d7-4656-85c7-f818cbdc0f43.jpg",
+                            "position": "VP & Game Director",
+                            "description": "The former Game Director of Magic: The Gathering Arena, Chris Clay led MTGA from its troubled first playable release to a genre favorite that generated over $120M in revenue in its first year. He has spent his career pushing the boundaries of technology, from early pioneering in 3D character setup and design, to laying the groundwork for massive multiplayer games at Turbine. He moved across the globe to join Immutable to continue to break new ground by building game economies that benefit both game creators and game communities alike in the NFT space."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/matt-aldrich-6b78241/",
+                            "name": "Matt Aldrich",
+                            "avatar": "c2c14089-75df-4d8e-99fd-1b5703a21733.jpg",
+                            "position": "Lead Art Director",
+                            "description": "Matt Aldrich has extensive experience Art Directing games in Europe, America, and Asia, and has been focused on delivering world class game art for multiple triple-A titles for over 20 years. His experience includes studios such as EA, Lucasfilm, and Wargaming where he worked on games spanning console, PC, and mobile. Throughout his career, Aldrich has worked on industry leading franchises including Tomb Raider, Assassins Creed, James Bond, Lord of the Rings, FIFA, and Star Wars."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/arashmahboubi/",
+                            "name": "Arash Mahboubi",
+                            "avatar": "9dfbabb9-718c-4a25-9660-1914ed4a51be.jpg",
+                            "position": "Crypto Product Lead",
+                            "description": "Arash brings with him a deep understanding of the crypto ecosystem and blockchain development. He’s been building the core technology that governs the Ethereum network for over 4 years and previous to that helped bring blockchain Dapps (Decentralized applications) to mainstream consumers. As a passionate gamer he brings together his technical expertise to overcome the technical divide between crypto concepts and traditional game mechanisms that players have grown to learn and love."
+                        },
+                        {
+                            "link": "",
+                            "name": "Derek Proud",
+                            "avatar": "",
+                            "position": "Producer",
+                            "description": "Derek Proud is a games industry veteran with more than 20 years experience. He’s worked on many licensed titles such as Harry Potter, Avatar: The Last Airbender, Cars, Spongebob Squarepants, and Jimmy Neutron as well as a variety of unlicensed franchises such as Destroy All Humans!, EA Sports Cricket, and EA Sports Rugby. He was both designer and producer for Big Beach Sports on Wii, which sold more than 2 million units worldwide."
+                        }
+                    ],
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                }
+            ],
+            "backers": [
+                {
+                    "id": 51,
+                    "logo": "3d63040a-7a53-4286-abf0-7bd84e6199f9",
+                    "name": "Bitkraft Ventures",
+                    "links": {
+                        "website": "https://www.bitkraft.vc/"
+                    },
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                },
+                {
+                    "id": 74,
+                    "logo": "5ed05048-772c-4cac-b14f-1e675b46babb",
+                    "name": "Coinbase Ventures",
+                    "links": {
+                        "website": "https://www.coinbase.com/ventures"
+                    },
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                },
+                {
+                    "id": 78,
+                    "logo": "2fb752dc-6d19-4720-9163-0c1f72131e5a",
+                    "name": "Continue Capital",
+                    "links": {
+                        "website": "https://continue.capital/"
+                    },
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                },
+                {
+                    "id": 119,
+                    "logo": "141a0727-e807-4ea9-9d35-5861d54bd263",
+                    "name": "Fabric Ventures",
+                    "links": {
+                        "website": "https://www.fabric.vc/"
+                    },
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                },
+                {
+                    "id": 376,
+                    "logo": "80951ee1-c060-411d-9464-5fc3d8faf6c0",
+                    "name": "Alameda Research",
+                    "links": {
+                        "website": "https://www.alameda-research.com/"
+                    },
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                },
+                {
+                    "id": 385,
+                    "logo": "f26a8940-6bfd-4299-afc4-394a20ad769a",
+                    "name": "Galaxy ",
+                    "links": {
+                        "website": "https://www.galaxydigital.io/"
+                    },
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                },
+                {
+                    "id": 559,
+                    "logo": "af0f1559-70d9-4d51-ab03-b5ed8cd798b9",
+                    "name": "OKX Ventures",
+                    "links": {
+                        "twitter": "",
+                        "website": "https://www.okx.com/blockdream-ventures"
+                    },
+                    "game_ids": [
+                        "3df2ee8f-df08-4604-b101-b59e0b3387db"
+                    ]
+                }
+            ],
+            "categories": [
+                {
+                    "id": "3f1ac014-955a-4536-8018-94dfe5c873d5",
+                    "name": "Card",
+                    "slug": "card"
+                },
+                {
+                    "id": "7163b00a-ef5e-4bce-9547-f3d0f408f5e8",
+                    "name": "Metaverse",
+                    "slug": "metaverse"
+                },
+                {
+                    "id": "85df251c-b115-4d0b-b3af-b161b3809a8b",
+                    "name": "Digital collectible",
+                    "slug": "digital-collectible"
+                }
+            ],
+            "downloads": [
+                {
+                    "id": "483fd1ee-fce4-4442-a327-e0d689243a70",
+                    "type": "ios",
+                    "link": "https://downloads.immutable.com/Immutable+Setup+0.13.7.exe\t",
+                    "version": "0"
+                },
+                {
+                    "id": "b280398c-0169-4062-b710-96f694cd84ef",
+                    "type": "pc",
+                    "link": "https://downloads.immutable.com/Immutable+Setup+0.13.7.exe\t",
+                    "version": "0"
+                }
+            ],
+            "networks": [
+                {
+                    "network": "eth"
+                }
+            ],
+            "game_graveyard": null,
+            "report_gamefi_rank": "A"
+        },
+        "metadata": {
+            "counts": {
+                "3df2ee8f-df08-4604-b101-b59e0b3387db": {
+                    "avg_star_rating": 4,
+                    "dislikes": 0,
+                    "ga_views": 1540,
+                    "likes": 975,
+                    "percentile": 41,
+                    "ratings": 11,
+                    "reviews": 5,
+                    "score": 48
+                }
+            },
+            "media": {
+                "141a0727-e807-4ea9-9d35-5861d54bd263": "fabricventures_full_color_701ac73621.png",
+                "2fb752dc-6d19-4720-9163-0c1f72131e5a": "continuecapital_full_color_bf8691aefa.png",
+                "3419bd1d-0f3c-4483-8726-c7b0d1c30c91": "token_icon_2120ba78c2.png",
+                "3d63040a-7a53-4286-abf0-7bd84e6199f9": "bitkraftventures_full_color_3beee9391f.png",
+                "5891c209-3f68-448d-88d6-c2e97dee4c33": "token_icon_1ee02ce99b.png",
+                "5ed05048-772c-4cac-b14f-1e675b46babb": "coinbaseventures_full_color_7734426582.png",
+                "7568de56-df16-4635-9fc7-d22332c59d04": "gods_unchained_Vertical_2fb025dae4.png",
+                "80951ee1-c060-411d-9464-5fc3d8faf6c0": "alamedaresearch_full_white_869a2b424a.png",
+                "865e0e92-8bea-43e0-ac5d-74990cbc6453": "god_unchained_rect_58524d12fc.png",
+                "af0f1559-70d9-4d51-ab03-b5ed8cd798b9": "af0f1559-70d9-4d51-ab03-b5ed8cd798b9.png",
+                "b7225b3f-1925-495e-ae87-97610879ac1b": "Homepage_8e4611c4a6.jpeg",
+                "f26a8940-6bfd-4299-afc4-394a20ad769a": "galaxydigital_full_color_86a31b2b98.png"
+            }
+        }
+    }
+}

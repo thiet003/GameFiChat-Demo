@@ -1,0 +1,971 @@
+[
+    {
+        "id": 1,
+        "name": "axie-infinity",
+        "counts-likes": {
+            "game_id": "f96d0db8-d551-40c3-905c-e6e002c920e3",
+            "likes": 1645,
+            "dislikes": 0
+        },
+        "counts-rating": {
+            "collection_id": "f96d0db8-d551-40c3-905c-e6e002c920e3",
+            "collection_type": "games",
+            "ratings": 58,
+            "star_rating": 4,
+            "counts": {
+                "1": 3,
+                "3": 3,
+                "4": 18,
+                "5": 34
+            }
+        },
+        "top-bankers": {
+            "items": [
+                {
+                    "id": 245,
+                    "logo": "d13ac133-a41a-4302-ba43-026ff627b7fe",
+                    "name": "Paradigm",
+                    "links": {
+                        "website": "https://www.paradigm.xyz/"
+                    }
+                },
+                {
+                    "id": 45,
+                    "logo": "ce682392-3efd-4a53-8667-575c4bcaee79",
+                    "name": "Binance Labs",
+                    "links": {
+                        "website": "https://labs.binance.com/"
+                    }
+                },
+                {
+                    "id": 43,
+                    "logo": "473f64e6-da3f-4ff1-a444-77d501047fd8",
+                    "name": "Binance",
+                    "links": {
+                        "website": "https://www.binance.com/en"
+                    }
+                },
+                {
+                    "id": 9,
+                    "logo": "8c487452-6564-4b05-bbbe-d7f1d9b74770",
+                    "name": "Andreessen Horowitz (a16z)",
+                    "links": {
+                        "website": "https://a16z.com/crypto/"
+                    }
+                },
+                {
+                    "id": 119,
+                    "logo": "141a0727-e807-4ea9-9d35-5861d54bd263",
+                    "name": "Fabric Ventures",
+                    "links": {
+                        "website": "https://www.fabric.vc/"
+                    }
+                },
+                {
+                    "id": 76,
+                    "logo": "84c325b6-4ccf-4e3d-b68d-2724875db7f0",
+                    "name": "CMT Digital",
+                    "links": {
+                        "website": "https://cmt.digital/"
+                    }
+                }
+            ],
+            "metadata": {
+                "media": {
+                    "141a0727-e807-4ea9-9d35-5861d54bd263": "fabricventures_full_color_701ac73621.png",
+                    "473f64e6-da3f-4ff1-a444-77d501047fd8": "binance_full_color_a89b254154.png",
+                    "84c325b6-4ccf-4e3d-b68d-2724875db7f0": "cmtdigital_full_color_659b1ceb1c.png",
+                    "8c487452-6564-4b05-bbbe-d7f1d9b74770": "a16z_full_color_0f13517f54.png",
+                    "ce682392-3efd-4a53-8667-575c4bcaee79": "binancelabs_full_color_5d38a73f49.png",
+                    "d13ac133-a41a-4302-ba43-026ff627b7fe": "paradigm_full_color_e2dc669bb2.png"
+                },
+                "others": {
+                    "backer_rank": "S"
+                }
+            }
+        },
+        "top-launchpads": {
+            "items": [],
+            "metadata": {}
+        },
+        "team-profile": {
+            "items": [
+                {
+                    "id": "05dac720-8001-4b03-a3c8-a16d19fe2425",
+                    "name": "Sky Mavis",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/trungfinity/",
+                            "name": "Trung Thanh Nguyen",
+                            "avatar": "7cea5aff-f556-4727-8582-b421f3e459f4.jpg",
+                            "position": "CEO",
+                            "description": "Trung is involved in all key decisions from product to marketing and leads the company in Vietnam."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/psycheout86/",
+                            "name": "Aleksander Leonard Larsen",
+                            "avatar": "4f099df4-08b5-4b10-8d57-ff42e39c9548.jpg",
+                            "position": "COO",
+                            "description": "Aleksander is responsible for all things business-related in Axie Infinity. He also serves on the board of directors in the Blockchain Game Alliance and holds the secretary position."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/tu-doan-677a60159/",
+                            "name": "Tu Doan",
+                            "avatar": "385f9337-dc04-40df-b182-55e14f861c26.jpg",
+                            "position": "Art Director and Game Designer",
+                            "description": "Tu runs the art team in Vietnam and designed the original Axies. He is responsible for the art direction and many game design concepts."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/viet-anh-ho-0560bb33/",
+                            "name": "Andy Ho",
+                            "avatar": "",
+                            "position": "CTO",
+                            "description": "Andy leads our engineering team and is responsible for our technical strategy and engineering operations."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/jeffzirlin/",
+                            "name": "Jeffrey Zirlin",
+                            "avatar": "",
+                            "position": "Growth Lead",
+                            "description": "Jeff AKA \"Jihoz\" is responsible for growth and community development. He also spearheads token design and works closely with the product team."
+                        }
+                    ],
+                    "game_ids": null
+                }
+            ],
+            "metadata": {
+                "others": {
+                    "team_rank": "S"
+                }
+            }
+        },
+        "team-profile-like": {
+            "game_id": "f96d0db8-d551-40c3-905c-e6e002c920e3",
+            "likes": 100,
+            "dislikes": 0,
+            "like_changed": 100
+        },
+        "community-performance": {
+            "game_id": "f96d0db8-d551-40c3-905c-e6e002c920e3",
+            "telegram_group_users": 34142,
+            "twitter_followers": 872469,
+            "discord_users": 608502,
+            "twitter_interaction": 366,
+            "discord_interaction": 26,
+            "community_rank": "A",
+            "market_rank": 36.36363636363637,
+            "twitter_rank": "S",
+            "telegram_group_rank": "C",
+            "discord_rank": "S"
+        },
+        "social-score": {
+            "item": {
+                "game_id": "f96d0db8-d551-40c3-905c-e6e002c920e3",
+                "time": "2024-02-21T00:00:00Z",
+                "timeframe": "24h",
+                "final-score": "86",
+                "social_score": 90.30623626708984,
+                "telegram_group_score": 33.941986083984375,
+                "telegram_channel_score": 0,
+                "twitter_score": 88.00362396240234,
+                "discord_score": 98.99999237060547,
+                "social_rank": 69,
+                "telegram_group_rank": 184,
+                "telegram_channel_rank": 277,
+                "twitter_rank": 82,
+                "discord_rank": 1
+            }
+        },
+        "about": "INTRODUCTION \n Axie Infinity Universe \n Axie Infinity is a game universe filled with fascinating creatures, Axies, that players can collect as pets. Players aim to battle, breed, collect, raise, and build kingdoms for their Axies. The universe has a player-owned economy where players can truly own, buy, sell, and trade resources they earn in the game through skilled-gameplay and contributions to the ecosystem. \n There are and will be many varied games experiences for Axies. Many of them will have players compete with each other using complex strategies and tactics to attain top rankings or be rewarded with coveted resources. Others will have them complete quests, defeat bosses, and unlock in-depth storylines. \n There are countless unique Axies that players can collect with varying body parts and appearances. Body parts will unlock abilities for Axies that vary across games, they will have completely different values, benefits, and skills from one game to another. Body parts also have their own unique card art for players to collect. \n Community & Economy \n All art assets and Axie genetic data can be easily accessed by 3rd parties, allowing community developers to build their own tools and experiences in the Axie Infinity universe. While still in early access, Axie is ranked the #1 Ethereum game by daily, weekly, and monthly active users. Players have spent over 1M ETH (3B+ USD) so far to progress in the game. While Axie is a fun game, it's also taken on characteristics of a social network and earning platform due to the strong community and opportunity to truly own resources earned within the games. A key difference between Axie and a traditional game is that Blockchain economic design unlocks the ability to have complex player-owned economies and reward players who are able to reach advanced levels of skill. Players are able to have fun and work towards ambitious goals while simultaneously earning potential resources that will have real monetary value due to an open economic system and demand from other players - \"Play-and-Earn\".Currently, players can gain more resources to advance in the game by taking actions such as:  \n Competing in Battles to win leaderboard prizes as well as Smooth Love Potions (SLP) Breeding Axies to produce new ones with particular Body Part combinations Collecting and speculating on rare Axies such as Mystics and Origins \n Mission \n We're here to create an ecosystem of amazing Axie gaming experiences with community and player-owned economies as foundational pillars.",
+        "banker": [
+            "Andreessen Horowitz (a16z)",
+            "Binance",
+            "Binance Labs",
+            "CMT Digital",
+            "Fabric Ventures",
+            "Paradigm",
+            "DeFi Alliance",
+            "MetaCartel Ventures",
+            "Twin Apex Capital",
+            "Hashed Fund",
+            "Kyber Network",
+            "Kenetic Capital",
+            "FTX Ventures"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "PEGAXY",
+        "counts-likes": {
+            "game_id": "d21d59d3-6de1-4342-ab7b-46409a5b4f0c",
+            "likes": 27,
+            "dislikes": 0
+        },
+        "counts-rating": {
+            "collection_id": "d21d59d3-6de1-4342-ab7b-46409a5b4f0c",
+            "collection_type": "games",
+            "ratings": 2,
+            "star_rating": 4,
+            "counts": {
+                "4": 2
+            }
+        },
+        "top-bankers": {
+            "items": [
+                {
+                    "id": 539,
+                    "logo": "2361e502-7977-4957-80ca-3d3e3bb69667",
+                    "name": "Kyber Ventures",
+                    "links": {
+                        "website": "https://www.kyber.ventures/"
+                    }
+                },
+                {
+                    "id": 371,
+                    "logo": "975fafd6-4534-4faf-a70e-c93aec3983ce",
+                    "name": "Shima Capital",
+                    "links": {
+                        "website": "https://shima.capital/"
+                    }
+                },
+                {
+                    "id": 389,
+                    "logo": "ab382b1b-ae85-4d9f-b3f0-b3fe6e57a4e3",
+                    "name": "TK Ventures",
+                    "links": {
+                        "website": "https://tk.ventures/"
+                    }
+                },
+                {
+                    "id": 361,
+                    "logo": "ccfea8d0-8c68-4a74-bab8-39228fa0f1c2",
+                    "name": "Kyber Network",
+                    "links": {
+                        "website": "https://kyber.network/"
+                    }
+                },
+                {
+                    "id": 260,
+                    "logo": "26ada7db-3131-4792-9e5b-485331a52618",
+                    "name": "Poolz Ventures",
+                    "links": {
+                        "website": "https://ventures.poolz.finance/"
+                    }
+                },
+                {
+                    "id": 352,
+                    "logo": "05742e02-3af6-4628-8cdc-3fd4074e21a6",
+                    "name": "Kyros Ventures",
+                    "links": {
+                        "website": "https://kyros.ventures/"
+                    }
+                }
+            ],
+            "metadata": {
+                "media": {
+                    "05742e02-3af6-4628-8cdc-3fd4074e21a6": "kyrosventures_full_white_5cc115f45a.png",
+                    "2361e502-7977-4957-80ca-3d3e3bb69667": "kyber_venture_logo_e64f999a76.png",
+                    "26ada7db-3131-4792-9e5b-485331a52618": "poolzventures_full_color_4d7be94bae.png",
+                    "975fafd6-4534-4faf-a70e-c93aec3983ce": "shimacapital_full_white_9643332080.png",
+                    "ab382b1b-ae85-4d9f-b3f0-b3fe6e57a4e3": "tkventures_full_white_dcfbc62580.png",
+                    "ccfea8d0-8c68-4a74-bab8-39228fa0f1c2": "kybernetwork_full_white_d0c33c2dfe.png"
+                },
+                "others": {
+                    "backer_rank": "S"
+                }
+            }
+        },
+        "top-launchpads": {
+            "items": [],
+            "metadata": {}
+        },
+        "team-profile": {
+            "items": [
+                {
+                    "id": "a62e908a-69a1-43e4-9d8f-33c6007659be",
+                    "name": "Mirai Labs",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/vunv518/",
+                            "name": "Vu Nguyen Van",
+                            "avatar": "pegaxy_steve_ac98c78884.png",
+                            "position": "CTO",
+                            "description": ""
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/realcoreywilton/",
+                            "name": "Corey Wilton",
+                            "avatar": "pegaxy_corey_f01eec72f1.png",
+                            "position": "CEO",
+                            "description": ""
+                        }
+                    ],
+                    "game_ids": null
+                }
+            ],
+            "metadata": {
+                "others": {
+                    "team_rank": "B"
+                }
+            }
+        },
+        "team-profile-like": {
+            "game_id": "d21d59d3-6de1-4342-ab7b-46409a5b4f0c",
+            "likes": 100,
+            "dislikes": 0,
+            "like_changed": 100
+        },
+        "community-performance": {
+            "game_id": "d21d59d3-6de1-4342-ab7b-46409a5b4f0c",
+            "twitter_followers": 82025,
+            "discord_users": 92365,
+            "twitter_interaction": 19,
+            "telegram_interaction": 4,
+            "discord_interaction": 7927,
+            "community_rank": "S",
+            "market_rank": 23.842195540308747,
+            "twitter_rank": "A",
+            "discord_rank": "S"
+        },
+        "social-score": {
+            "item": {
+                "game_id": "d21d59d3-6de1-4342-ab7b-46409a5b4f0c",
+                "time": "2024-02-21T00:00:00Z",
+                "timeframe": "24h",
+                "social_score": 86.59369659423828,
+                "telegram_group_score": 0,
+                "telegram_channel_score": 94.6383056640625,
+                "twitter_score": 74.30496978759766,
+                "discord_score": 96.65157318115234,
+                "social_rank": 100,
+                "telegram_group_rank": 487,
+                "telegram_channel_rank": 32,
+                "twitter_rank": 196,
+                "discord_rank": 19
+            }
+        },
+        "about": "INTRODUCTION \n Pegaxy is a play-to-earn PVP style horse racing game where players compete for top 3 placement against 14 other racers. Each race has randomised elemental variables which include wind, water, fire, speed and more. Using strategic upgrades, food and skill, players must place in the top 3 to earn the platforms utility token, VIS (Vigorus). \n Within the game, players are able to breed, merge, rent, sell, and of course race their Pega to earn VIS tokens. This system has proven to be a sound long-term economic approach when building an NFT/Blockchain based game as it enables teams to build large guilds, scholarship programs, and even provides solo players the opportunity to earn in game tokens through daily racing. \n The initial sale of 5,000 Founding Pega was held in October 2021, alongside the PGX launch via IDO in November. The first 5,000 Pega were dubbed \"Founding\" Pega as they were the only ones  created by the Pegaxy Development team. Every Pega after #5,000 has been minted (created) through the breeding model inside the game. \n Pegaxy is well respected within the industry for its innovation in trustless rental systems, on chain technology and well weighted economic balance. Many also attribute its popularity to the gameplay, team transparency and community involvement during the development process.",
+        "banker": [
+            "AstroV Ventures",
+            "Asteroid Capital",
+            "BAP Ventures",
+            "Good Games Guild",
+            "Momentum 6",
+            "Poolz Ventures",
+            "TAG Ventures",
+            "Kyros Ventures",
+            "Kyber Network",
+            "Shima Capital",
+            "TK Ventures",
+            "Crypto.com",
+            "Kyber Ventures",
+            "Real Deal Guild"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "GUNSTAR METAVERSE",
+        "counts-likes": {
+            "game_id": "0f9abc34-1d34-46fc-8885-9dd5ed324692",
+            "likes": 10635,
+            "dislikes": 0
+        },
+        "counts-rating": {
+            "collection_id": "0f9abc34-1d34-46fc-8885-9dd5ed324692",
+            "collection_type": "games",
+            "ratings": 6159,
+            "star_rating": 4,
+            "counts": {
+                "1": 2,
+                "4": 2,
+                "5": 6155
+            }
+        },
+        "top-bankers": {
+            "items": [
+                {
+                    "id": 347,
+                    "logo": "2cfc5b27-cacb-4022-ad58-55f0b825970f",
+                    "name": "DAO Maker",
+                    "links": {
+                        "website": "https://daomaker.com/"
+                    }
+                },
+                {
+                    "id": 367,
+                    "logo": "e47bd3f6-2a1c-4fd0-862d-8270db832914",
+                    "name": "Magnus Capital",
+                    "links": {
+                        "website": "https://magnusdigitalassets.com/"
+                    }
+                },
+                {
+                    "id": 350,
+                    "logo": "835f5a3c-97aa-4d6e-bba2-a5637391e377",
+                    "name": "Icetea Labs",
+                    "links": {
+                        "website": "https://icetea.io/#/"
+                    }
+                },
+                {
+                    "id": 345,
+                    "logo": "262c179d-8494-4ace-a3fa-e0dc26991f4e",
+                    "name": "Hashed Fund",
+                    "links": {
+                        "website": "https://www.hashed.com/"
+                    }
+                },
+                {
+                    "id": 373,
+                    "logo": "097390ec-8656-4767-8d70-35226f9e8016",
+                    "name": "Raptor Capital",
+                    "links": {
+                        "website": "https://www.raptorcapital.io/"
+                    }
+                },
+                {
+                    "id": 299,
+                    "logo": "c147c6af-5186-4fe4-9748-df0f792cc53e",
+                    "name": "Spark Digital Capital",
+                    "links": {
+                        "website": "https://sparkdigitalcapital.com/"
+                    }
+                }
+            ],
+            "metadata": {
+                "media": {
+                    "097390ec-8656-4767-8d70-35226f9e8016": "raptorcapital_full_white_fae0e63a14.png",
+                    "262c179d-8494-4ace-a3fa-e0dc26991f4e": "hashed_white_logo_fococlipping_standard_b03480102e.png",
+                    "2cfc5b27-cacb-4022-ad58-55f0b825970f": "daomaker_white_d02232f9b3.png",
+                    "835f5a3c-97aa-4d6e-bba2-a5637391e377": "icetealabs_full_white_9ccf0c6e07.png",
+                    "c147c6af-5186-4fe4-9748-df0f792cc53e": "sparkdigitalcapital_full_color_505c5d1557.png",
+                    "e47bd3f6-2a1c-4fd0-862d-8270db832914": "magnuscapital_full_white_b6e3f78751.png"
+                },
+                "others": {
+                    "backer_rank": "S"
+                }
+            }
+        },
+        "top-launchpads": {
+            "items": [],
+            "metadata": {}
+        },
+        "team-profile": {
+            "items": [
+                {
+                    "id": "b9c2870d-2a97-49d5-8042-ef4642681d98",
+                    "name": "Gunstar Labs",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/hoanghiepgunstar/",
+                            "name": "Hoang Hiep",
+                            "avatar": "47b11103-52f4-4152-ac57-165c78732512.jpg",
+                            "position": "CEO"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/dieptrantuan88/",
+                            "name": "Tuan Diep",
+                            "position": "CTO"
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/minh-nhat-9701b4146/",
+                            "name": "Minh Nhat",
+                            "avatar": "748f3c65-f2f3-4dbd-88cf-b7ec675286f2.jpg",
+                            "position": "CMO"
+                        }
+                    ],
+                    "game_ids": null
+                }
+            ],
+            "metadata": {
+                "others": {
+                    "team_rank": "A"
+                }
+            }
+        },
+        "team-profile-like": {
+            "game_id": "0f9abc34-1d34-46fc-8885-9dd5ed324692",
+            "likes": 100,
+            "dislikes": 0,
+            "like_changed": 100
+        },
+        "community-performance": {
+            "game_id": "0f9abc34-1d34-46fc-8885-9dd5ed324692",
+            "telegram_group_users": 12922,
+            "twitter_followers": 136050,
+            "discord_users": 60364,
+            "twitter_interaction": 2,
+            "community_rank": "B",
+            "market_rank": 49.57118353344768,
+            "twitter_rank": "B",
+            "telegram_group_rank": "C",
+            "discord_rank": "S"
+        },
+        "social-score": {
+            "item": {
+                "game_id": "0f9abc34-1d34-46fc-8885-9dd5ed324692",
+                "time": "2024-02-21T00:00:00Z",
+                "timeframe": "24h",
+                "social_score": 77.6964340209961,
+                "telegram_group_score": 29.683147430419922,
+                "telegram_channel_score": 3.7240495681762695,
+                "twitter_score": 52.98304748535156,
+                "discord_score": 82.80806732177734,
+                "social_rank": 171,
+                "telegram_group_rank": 218,
+                "telegram_channel_rank": 82,
+                "twitter_rank": 276,
+                "discord_rank": 129
+            }
+        },
+        "about": "INTRODUCTION \n Gunstar Metaverse (Gunstar) is a massively multiplayer online role-playing (RPG) and turn-based strategy NFT Game that gives you the real value of enjoyment and excitement in gaming and the real value provided through the blockchain platform. \n Gunstar is a cyber-prone game for professional gamers or any kinds of users to test their skills and corporate with their correspondents in an attempt to create the ultimate-high shoot, or even have the golden opportunities to engage in so-called whirlwind intellectual games to gain unforgettable victory. \n Gunstar and Fantasy Star World will also imbue players with the experience of reality-based adventures, something that goes beyond what a mere tactic game usually offers. Enthusiasm, thrilling anticipation while playing are core to allure customers interest. \n Let enjoy your shot, your adventure in Star World.",
+        "banker": [
+            "Black Ventures",
+            "Spark Digital Capital",
+            "Wings Ventures",
+            "Hashed Fund",
+            "DAO Maker",
+            "GuildFi",
+            "Icetea Labs",
+            "Magnus Capital",
+            "Raptor Capital"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "SUPERPOWER SQUAD",
+        "counts-likes": {
+            "game_id": "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d",
+            "likes": 634,
+            "dislikes": 0
+        },
+        "counts-rating": {
+            "collection_id": "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d",
+            "collection_type": "games",
+            "ratings": 575,
+            "star_rating": 4,
+            "counts": {
+                "1": 2,
+                "2": 5,
+                "3": 2,
+                "4": 12,
+                "5": 554
+            }
+        },
+        "top-bankers": {
+            "items": [
+                {
+                    "id": 20,
+                    "logo": "77bfcf50-3904-43ce-b3cc-4b91f8a6ae9a",
+                    "name": "Ankr",
+                    "links": {
+                        "website": "https://www.ankr.com/"
+                    }
+                }
+            ],
+            "metadata": {
+                "media": {
+                    "77bfcf50-3904-43ce-b3cc-4b91f8a6ae9a": "ankr_full_color_bb08d1755b.png"
+                },
+                "others": {
+                    "backer_rank": null
+                }
+            }
+        },
+        "top-launchpads": {
+            "items": [],
+            "metadata": {}
+        },
+        "team-profile": {
+            "items": [
+                {
+                    "id": "4b8a9083-237b-48ae-ada4-0335fc3790c6",
+                    "name": "Superpower Squad",
+                    "link": "http://ssquad.games",
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/gregorygopman",
+                            "name": "Greg Gopman",
+                            "avatar": "profile_greg_18eddd1f65.png",
+                            "position": "CEO",
+                            "description": ""
+                        },
+                        {
+                            "link": "",
+                            "name": "Pony Zhang",
+                            "avatar": "profile_pony_9890010f8d.png",
+                            "position": "CTO",
+                            "description": ""
+                        }
+                    ],
+                    "game_ids": null
+                }
+            ],
+            "metadata": {
+                "others": {
+                    "team_rank": "C"
+                }
+            }
+        },
+        "team-profile-like": {
+            "game_id": "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d",
+            "likes": 100,
+            "dislikes": 0,
+            "like_changed": 100
+        },
+        "community-performance": {
+            "game_id": "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d",
+            "telegram_group_users": 15716,
+            "twitter_followers": 93494,
+            "twitter_interaction": 2,
+            "community_rank": "A",
+            "market_rank": 42.36706689536878,
+            "twitter_rank": "B",
+            "telegram_group_rank": "S"
+        },
+        "social-score": {
+            "game_id": "e4b5ef67-5783-4dd7-baa8-9575c0fe0e9d",
+            "time": "2024-02-21T00:00:00Z",
+            "timeframe": "24h",
+            "social_score": 68.78607177734375,
+            "telegram_group_score": 87.46261596679688,
+            "telegram_channel_score": 2.8039159774780273,
+            "twitter_score": 53.599998474121094,
+            "discord_score": 0,
+            "social_rank": 242,
+            "telegram_group_rank": 70,
+            "telegram_channel_rank": 230,
+            "twitter_rank": 274,
+            "discord_rank": 372
+        },
+        "about": "INTRODUCTION \n Superpower Squad is a blockchain technology-based third-person-shooter game consists of gameplays such as MOBA, RPG, and Roguelike. The game supports solo and team modes, with immersive gaming experience, diverse game mode, and delicate hero & skin & weapon synthesis and upgrade system. Superpower Squad is going to bring eSports culture to web3 for all players. The mobile app has integrated a native in-app wallet to lower down the learning cost of web2 gamers. With innovative gaming model and user-friendly blockchain infrastructure, Superpower Squad will lead the eSports in web3 industry.",
+        "banker": []
+    },
+    {
+        "id": 5,
+        "name": "GODS UNCHAINED",
+        "counts-likes": {
+            "game_id": "3df2ee8f-df08-4604-b101-b59e0b3387db",
+            "likes": 975,
+            "dislikes": 0
+        },
+        "counts-rating": {
+            "collection_id": "3df2ee8f-df08-4604-b101-b59e0b3387db",
+            "collection_type": "games",
+            "ratings": 11,
+            "star_rating": 4,
+            "counts": {
+                "2": 1,
+                "4": 4,
+                "5": 6
+            }
+        },
+        "top-bankers": {
+            "items": [
+                {
+                    "id": 385,
+                    "logo": "f26a8940-6bfd-4299-afc4-394a20ad769a",
+                    "name": "Galaxy",
+                    "links": {
+                        "website": "https://www.galaxydigital.io/"
+                    }
+                },
+                {
+                    "id": 74,
+                    "logo": "5ed05048-772c-4cac-b14f-1e675b46babb",
+                    "name": "Coinbase Ventures",
+                    "links": {
+                        "website": "https://www.coinbase.com/ventures"
+                    }
+                },
+                {
+                    "id": 51,
+                    "logo": "3d63040a-7a53-4286-abf0-7bd84e6199f9",
+                    "name": "Bitkraft Ventures",
+                    "links": {
+                        "website": "https://www.bitkraft.vc/"
+                    }
+                },
+                {
+                    "id": 119,
+                    "logo": "141a0727-e807-4ea9-9d35-5861d54bd263",
+                    "name": "Fabric Ventures",
+                    "links": {
+                        "website": "https://www.fabric.vc/"
+                    }
+                },
+                {
+                    "id": 78,
+                    "logo": "2fb752dc-6d19-4720-9163-0c1f72131e5a",
+                    "name": "Continue Capital",
+                    "links": {
+                        "website": "https://continue.capital/"
+                    }
+                },
+                {
+                    "id": 559,
+                    "logo": "af0f1559-70d9-4d51-ab03-b5ed8cd798b9",
+                    "name": "OKX Ventures",
+                    "links": {
+                        "twitter": "",
+                        "website": "https://www.okx.com/blockdream-ventures"
+                    }
+                },
+                {
+                    "id": 376,
+                    "logo": "80951ee1-c060-411d-9464-5fc3d8faf6c0",
+                    "name": "Alameda Research",
+                    "links": {
+                        "website": "https://www.alameda-research.com/"
+                    }
+                }
+            ],
+            "metadata": {
+                "media": {
+                    "141a0727-e807-4ea9-9d35-5861d54bd263": "fabricventures_full_color_701ac73621.png",
+                    "2fb752dc-6d19-4720-9163-0c1f72131e5a": "continuecapital_full_color_bf8691aefa.png",
+                    "3d63040a-7a53-4286-abf0-7bd84e6199f9": "bitkraftventures_full_color_3beee9391f.png",
+                    "5ed05048-772c-4cac-b14f-1e675b46babb": "coinbaseventures_full_color_7734426582.png",
+                    "80951ee1-c060-411d-9464-5fc3d8faf6c0": "alamedaresearch_full_white_869a2b424a.png",
+                    "af0f1559-70d9-4d51-ab03-b5ed8cd798b9": "af0f1559-70d9-4d51-ab03-b5ed8cd798b9.png",
+                    "f26a8940-6bfd-4299-afc4-394a20ad769a": "galaxydigital_full_color_86a31b2b98.png"
+                },
+                "others": {
+                    "backer_rank": "S"
+                }
+            }
+        },
+        "top-launchpads": {
+            "items": [],
+            "metadata": {}
+        },
+        "team-profile": {
+            "items": [
+                {
+                    "id": "262877b9-120c-4ad9-8e9b-be9069cfbaec",
+                    "name": "Immutable",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/cclay/",
+                            "name": "Chris Clay",
+                            "avatar": "073435cd-80d7-4656-85c7-f818cbdc0f43.jpg",
+                            "position": "VP \u0026 Game Director",
+                            "description": "The former Game Director of Magic: The Gathering Arena, Chris Clay led MTGA from its troubled first playable release to a genre favorite that generated over $120M in revenue in its first year. He has spent his career pushing the boundaries of technology, from early pioneering in 3D character setup and design, to laying the groundwork for massive multiplayer games at Turbine. He moved across the globe to join Immutable to continue to break new ground by building game economies that benefit both game creators and game communities alike in the NFT space."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/matt-aldrich-6b78241/",
+                            "name": "Matt Aldrich",
+                            "avatar": "c2c14089-75df-4d8e-99fd-1b5703a21733.jpg",
+                            "position": "Lead Art Director",
+                            "description": "Matt Aldrich has extensive experience Art Directing games in Europe, America, and Asia, and has been focused on delivering world class game art for multiple triple-A titles for over 20 years. His experience includes studios such as EA, Lucasfilm, and Wargaming where he worked on games spanning console, PC, and mobile. Throughout his career, Aldrich has worked on industry leading franchises including Tomb Raider, Assassins Creed, James Bond, Lord of the Rings, FIFA, and Star Wars."
+                        },
+                        {
+                            "link": "https://www.linkedin.com/in/arashmahboubi/",
+                            "name": "Arash Mahboubi",
+                            "avatar": "9dfbabb9-718c-4a25-9660-1914ed4a51be.jpg",
+                            "position": "Crypto Product Lead",
+                            "description": "Arash brings with him a deep understanding of the crypto ecosystem and blockchain development. He’s been building the core technology that governs the Ethereum network for over 4 years and previous to that helped bring blockchain Dapps (Decentralized applications) to mainstream consumers. As a passionate gamer he brings together his technical expertise to overcome the technical divide between crypto concepts and traditional game mechanisms that players have grown to learn and love."
+                        },
+                        {
+                            "link": "",
+                            "name": "Derek Proud",
+                            "avatar": "",
+                            "position": "Producer",
+                            "description": "Derek Proud is a games industry veteran with more than 20 years experience. He’s worked on many licensed titles such as Harry Potter, Avatar: The Last Airbender, Cars, Spongebob Squarepants, and Jimmy Neutron as well as a variety of unlicensed franchises such as Destroy All Humans!, EA Sports Cricket, and EA Sports Rugby. He was both designer and producer for Big Beach Sports on Wii, which sold more than 2 million units worldwide."
+                        }
+                    ],
+                    "game_ids": null
+                }
+            ],
+            "metadata": {
+                "others": {
+                    "team_rank": "S"
+                }
+            }
+        },
+        "team-profile-like": {
+            "game_id": "3df2ee8f-df08-4604-b101-b59e0b3387db",
+            "likes": 100,
+            "dislikes": 0,
+            "like_changed": 100
+        },
+        "community-performance": {
+            "game_id": "3df2ee8f-df08-4604-b101-b59e0b3387db",
+            "twitter_followers": 128754,
+            "twitter_interaction": 74,
+            "community_rank": "S",
+            "market_rank": 12.178387650085764,
+            "twitter_rank": "S"
+        },
+        "social-score": {
+            "item": {
+                "game_id": "3df2ee8f-df08-4604-b101-b59e0b3387db",
+                "time": "2024-02-21T00:00:00Z",
+                "timeframe": "24h",
+                "social_score": 47.57627487182617,
+                "telegram_group_score": 0,
+                "telegram_channel_score": 0,
+                "twitter_score": 80.77539825439453,
+                "discord_score": 0,
+                "social_rank": 412,
+                "telegram_group_rank": 445,
+                "telegram_channel_rank": 471,
+                "twitter_rank": 136,
+                "discord_rank": 580
+            }
+        },
+        "about": "INTRODUCTION \n Gods Unchained is a free-to-play tactical card game that gives players true ownership of their in-game items. Led by the former game director of Magic The Gathering: Arena, the game focuses on competitive play, which means players must strategically outsmart their opponents by building decks that are able to combat a wide variety of tactics. In Gods Unchained players completely own their digital items, giving them the freedom to trade, sell and use their cards any way they like just like owning real, tangible cards.",
+        "banker": [
+            "Bitkraft Ventures",
+            "Coinbase Ventures",
+            "Continue Capital",
+            "Fabric Ventures",
+            "Alameda Research",
+            "Galaxy",
+            "OKX Ventures"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "BEFITTER",
+        "counts-likes": {
+            "game_id": "ba99e235-e89d-43b8-95bd-58acd1dd9576",
+            "likes": 12036,
+            "dislikes": 0
+        },
+        "counts-rating": {
+            "collection_id": "ba99e235-e89d-43b8-95bd-58acd1dd9576",
+            "collection_type": "games",
+            "ratings": 21262,
+            "star_rating": 4,
+            "counts": {
+                "1": 12,
+                "2": 7,
+                "3": 15,
+                "4": 89,
+                "5": 21139
+            }
+        },
+        "top-bankers": {
+            "items": [
+                {
+                    "id": 350,
+                    "logo": "835f5a3c-97aa-4d6e-bba2-a5637391e377",
+                    "name": "Icetea Labs",
+                    "links": {
+                        "website": "https://icetea.io/#/"
+                    }
+                },
+                {
+                    "id": 353,
+                    "logo": "bcddd4b0-07fe-4ec9-adf3-61bece13e36e",
+                    "name": "GAINS Associates",
+                    "links": {
+                        "website": "https://www.gains-associates.com/"
+                    }
+                }
+            ],
+            "metadata": {
+                "media": {
+                    "835f5a3c-97aa-4d6e-bba2-a5637391e377": "icetealabs_full_white_9ccf0c6e07.png",
+                    "bcddd4b0-07fe-4ec9-adf3-61bece13e36e": "gainsassociates_full_white_aadb5a987f.png"
+                },
+                "others": {
+                    "backer_rank": "B"
+                }
+            }
+        },
+        "top-launchpads": {
+            "items": [],
+            "metadata": {}
+        },
+        "team-profile": {
+            "items": [
+                {
+                    "id": "e0dade37-e377-4fc2-843f-f6e3ca13fcf2",
+                    "name": "VerseHub Global",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/banguyenthu/",
+                            "name": "Ba",
+                            "avatar": "40713c02-b7ef-4c91-b4a5-b00cf2ece886.jpg",
+                            "position": "Co-founder",
+                            "description": "Ba has broad experience working on multiple notable blockchain projects, including PolkaFoundry, Red Kite Launchpad, and GameFi.org game hub. Before beFITTER, she is Icetea Labs’ due diligence leader who has evaluated and advised over 30 projects."
+                        },
+                        {
+                            "link": "",
+                            "name": "Thai Trieu",
+                            "avatar": "",
+                            "position": " Art-Director",
+                            "description": "He is a professional artist with over 8 years of experience in the gaming industry as a concept artist and illustrator. Thai has a profound knowledge of fiction, films, and games with various themes from several international projects that he has worked on."
+                        },
+                        {
+                            "link": "",
+                            "name": "Trang Doan",
+                            "avatar": "",
+                            "position": "Product Owner",
+                            "description": "She has 2.5 years working as a Product Owner, 8 years of experience in software development. She is also a mentor on mentori."
+                        },
+                        {
+                            "link": "",
+                            "name": "Ha Nguyen",
+                            "avatar": "",
+                            "position": "Head of Development",
+                            "description": "He has 10 years of experience developing finance and education applications, 1 year working in the blockchain industry. He also has outstanding skills in team management and leadership."
+                        }
+                    ],
+                    "game_ids": null
+                }
+            ],
+            "metadata": {
+                "others": {
+                    "team_rank": "C"
+                }
+            }
+        },
+        "team-profile-like": {
+            "game_id": "ba99e235-e89d-43b8-95bd-58acd1dd9576",
+            "likes": 100,
+            "dislikes": 0,
+            "like_changed": 100
+        },
+        "community-performance": {
+            "game_id": "ba99e235-e89d-43b8-95bd-58acd1dd9576",
+            "telegram_group_users": 11781,
+            "twitter_followers": 33072,
+            "discord_users": 11644,
+            "community_rank": "B",
+            "market_rank": 52.658662092624354,
+            "twitter_rank": "D",
+            "telegram_group_rank": "S",
+            "discord_rank": "A"
+        },
+        "social-score": {
+            "item": {
+                "game_id": "ba99e235-e89d-43b8-95bd-58acd1dd9576",
+                "time": "2024-02-21T00:00:00Z",
+                "timeframe": "24h",
+                "social_score": 74,
+                "telegram_group_score": 84.26854705810547,
+                "telegram_channel_score": 3.211449146270752,
+                "twitter_score": 1.6864051818847656,
+                "discord_score": 66.58673095703125,
+                "social_rank": 200,
+                "telegram_group_rank": 95,
+                "telegram_channel_rank": 166,
+                "twitter_rank": 426,
+                "discord_rank": 263
+            }
+        },
+        "about": "beFITTER is a web3 fitnessfi and socialfi app that aims to build a healthier ecosystem helping users balance their life, improve mental & physical health, gain achievements and still get monetary incentives.",
+        "banker": [
+            "Icetea Labs",
+            "GAINS Associates"
+        ]
+    }
+]

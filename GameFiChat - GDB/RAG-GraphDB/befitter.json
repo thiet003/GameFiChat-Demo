@@ -1,0 +1,214 @@
+{
+    "data": {
+        "item": {
+            "id": "ba99e235-e89d-43b8-95bd-58acd1dd9576",
+            "status": "published",
+            "published_at": "2022-06-22T14:11:20.16Z",
+            "name": "beFITTER",
+            "slug": "befitter",
+            "roadmap_text": "{\"time\":1661849068134,\"blocks\":[{\"id\":\"GzpXHUfm6K\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/roadmap_b419b5b9c1.png\",\"mime\":\"image/png\",\"height\":1000,\"width\":2368,\"size\":125,\"alt\":\"roadmap.png\",\"formats\":{\"large\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/large_roadmap_b419b5b9c1.png\",\"hash\":\"large_roadmap_b419b5b9c1\",\"mime\":\"image/png\",\"name\":\"large_roadmap.png\",\"path\":null,\"size\":134.07,\"width\":1000,\"height\":422},\"small\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/small_roadmap_b419b5b9c1.png\",\"hash\":\"small_roadmap_b419b5b9c1\",\"mime\":\"image/png\",\"name\":\"small_roadmap.png\",\"path\":null,\"size\":49.22,\"width\":500,\"height\":211},\"medium\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/medium_roadmap_b419b5b9c1.png\",\"hash\":\"medium_roadmap_b419b5b9c1\",\"mime\":\"image/png\",\"name\":\"medium_roadmap.png\",\"path\":null,\"size\":89.34,\"width\":750,\"height\":317},\"thumbnail\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/thumbnail_roadmap_b419b5b9c1.png\",\"hash\":\"thumbnail_roadmap_b419b5b9c1\",\"mime\":\"image/png\",\"name\":\"thumbnail_roadmap.png\",\"path\":null,\"size\":16.59,\"width\":245,\"height\":103}}},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
+            "launchpads": [
+                {
+                    "date": "2023-02-17 10:53:50.328742632 +0000 UTC m=+61.462078288",
+                    "id": "gamefi",
+                    "name": "gamefi.org",
+                    "url": "https://gamefi.org"
+                }
+            ],
+            "introduction": "{\"time\":1655799388655,\"blocks\":[{\"id\":\"N4cBGbhERx\",\"type\":\"paragraph\",\"data\":{\"text\":\"beFITTER is a web3 fitnessfi and socialfi app that aims to build a healthier ecosystem helping users balance their life, improve mental &amp; physical health, gain achievements and still get monetary incentives.\"}}],\"version\":\"2.23.2\"}",
+            "excerpt": "beFITTER is a web3 fitnessfi and socialfi app that aims to build a healthier ecosystem.",
+            "features_text": "{\"time\":1655799608934,\"blocks\":[{\"id\":\"HuDS0p761x\",\"type\":\"header\",\"data\":{\"text\":\"Unique Features of beFITTER:\",\"level\":2}},{\"id\":\"FcpHDFwOBt\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Shoes NFT:</b>&nbsp;Every sneaker will have different qualities. Users can freely burn tokens to elevate their shoes to a new level and mint new shoes. &nbsp;\"}},{\"id\":\"Rzdg1ic26-\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Move &amp; Earn:&nbsp;</b>equipped with NFT shoes, can move outdoors to receive Tokens in beFITTER.\"}},{\"id\":\"0jYQ0o8R-x\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Rent feature:</b>\"}},{\"id\":\"j9AbHs0z9s\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Fixed rent:&nbsp;The owner can list his/her digital assets (NFT) on the marketplace together with terms and conditions, including rental duration, listed price,... The renter can then have full access to the asset (the pair of shoes) for the contract duration.\",\"Share profit:&nbsp;Similar to the fixed rent feature, the owner can list his/her digital asset (NFT) on the marketplace and find who wants to borrow them. The revenue earned by using that NFT will be shared between the lender and the borrower (the lender decides the percentages in advance)\"]}},{\"id\":\"OktwqwINiL\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>In-app NFT marketplace:</b> Users can trade their NFT on the marketplace.\"}},{\"id\":\"DYx1z78Btx\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Token swap:</b> Token swap allows users to trade directly between two types of tokens as an atomic transaction; also, users can trade their tokens into stable coins for further purposes.\"}},{\"id\":\"C6A7jESkLF\",\"type\":\"paragraph\",\"data\":{\"text\":\"<b>Decentralized wallet:</b> Decentralized cryptocurrency wallets give you complete control of your digital assets — without platform supervision.\"}}],\"version\":\"2.23.2\"}",
+            "banners": [
+                {
+                    "desktop": "ea06a43c-40db-458e-ab4e-52be7fc7e0f4",
+                    "mobile": "ea06a43c-40db-458e-ab4e-52be7fc7e0f4"
+                }
+            ],
+            "logos": [
+                {
+                    "desktop": "26e52b84-d425-48e4-b1e4-82e8f0532c36",
+                    "mobile": "26e52b84-d425-48e4-b1e4-82e8f0532c36"
+                }
+            ],
+            "verified": true,
+            "twitter_id": "1524973735106686976",
+            "links": {
+                "blog": "",
+                "coinmarketcap": "https://coinmarketcap.com/currencies/befitter/",
+                "discord": "https://discord.gg/hSfajgQkzh",
+                "facebook": "https://www.facebook.com/beFITTER.io",
+                "instagram": "https://www.instagram.com/befitter.io/",
+                "medium": "https://medium.com/@beFITTER",
+                "reddit": "",
+                "telegram": "https://t.me/befitter_chat",
+                "telegramAnnouncementChannel": "https://t.me/befitter_official",
+                "tiktok": "",
+                "twitch": "",
+                "twitter": "https://twitter.com/beFITTER_io",
+                "website": "https://befitter.io/",
+                "youtube": "https://www.youtube.com/channel/UCWHlMEIroTPlHS6fukq5pyw"
+            },
+            "release_status": "official",
+            "play_mode": "{\"time\":1655799618071,\"blocks\":[{\"id\":\"Kh-6_HBSA7\",\"type\":\"paragraph\",\"data\":{\"text\":\"beFITTER offers a range of game modes to give a player a realistics training experience, including: Solo, With Pet, 1 vs 1 and Tournament.\"}}],\"version\":\"2.23.2\"}",
+            "play_to_earn_model": "{\"time\":1655799622801,\"blocks\":[{\"id\":\"pQo0pDQuHC\",\"type\":\"paragraph\",\"data\":{\"text\":\"Users need to be equipped with Shoe NFT to get paid (beFITTER token) when they walk/ run/ cycle and join challenge with others. They even can equip NFT Pets as a companion to get more rewards.\"}}],\"version\":\"2.23.2\"}",
+            "vertical_thumbnail": "7de223eb-cee6-433f-b1a8-339d0c55af9b",
+            "rectangle_thumbnail": "128c58b7-b8cf-4dbb-a7a0-646540c064a0",
+            "tokenomics_compact": [
+                {
+                    "id": "5f1daca7-bd0c-47b6-a7a4-c8512eea4cff",
+                    "valuation": 15000000,
+                    "market_cap": 14700.46505125651,
+                    "market_cap_init": 630000,
+                    "market_cap_fully_diluted": 309495.65625,
+                    "market_cap_self_reported": 0,
+                    "token_symbol": "FIU",
+                    "icon": "e12ac60a-c5b6-4f93-96b9-a490318ac74c",
+                    "current_price": 0.000309495662804693,
+                    "public_price": 0.015,
+                    "highest_price": 0.217778,
+                    "reported_ath": 0,
+                    "chart_symbol": "FIUUSDT",
+                    "init_token_circulation": 42000000,
+                    "init_valuation": 0,
+                    "coinmarketcap_slug": "befitter",
+                    "coingecko_slug": "befitter",
+                    "price_change_24_h": 6.80282694,
+                    "price_change_7_d": -1.3677628,
+                    "price_change_30_d": 11.66042704,
+                    "price_change_90_d": 15.75855352,
+                    "volume_24_h": 21162.01649499,
+                    "volume_change_24_h": 38.4924,
+                    "total_supply": 100000000,
+                    "max_supply": 1000000000,
+                    "type": null,
+                    "is_primary": false
+                }
+            ],
+            "studios": [
+                {
+                    "id": "e0dade37-e377-4fc2-843f-f6e3ca13fcf2",
+                    "name": "VerseHub Global",
+                    "link": null,
+                    "staffs": [
+                        {
+                            "link": "https://www.linkedin.com/in/banguyenthu/",
+                            "name": "Ba",
+                            "avatar": "40713c02-b7ef-4c91-b4a5-b00cf2ece886.jpg",
+                            "position": "Co-founder",
+                            "description": "Ba has broad experience working on multiple notable blockchain projects, including PolkaFoundry, Red Kite Launchpad, and GameFi.org game hub. Before beFITTER, she is Icetea Labs’ due diligence leader who has evaluated and advised over 30 projects."
+                        },
+                        {
+                            "link": "",
+                            "name": "Thai Trieu",
+                            "avatar": "",
+                            "position": " Art-Director",
+                            "description": "He is a professional artist with over 8 years of experience in the gaming industry as a concept artist and illustrator. Thai has a profound knowledge of fiction, films, and games with various themes from several international projects that he has worked on."
+                        },
+                        {
+                            "link": "",
+                            "name": "Trang Doan",
+                            "avatar": "",
+                            "position": "Product Owner",
+                            "description": "She has 2.5 years working as a Product Owner, 8 years of experience in software development. She is also a mentor on mentori."
+                        },
+                        {
+                            "link": "",
+                            "name": "Ha Nguyen",
+                            "avatar": "",
+                            "position": "Head of Development",
+                            "description": "He has 10 years of experience developing finance and education applications, 1 year working in the blockchain industry. He also has outstanding skills in team management and leadership."
+                        }
+                    ],
+                    "game_ids": [
+                        "ba99e235-e89d-43b8-95bd-58acd1dd9576"
+                    ]
+                }
+            ],
+            "backers": [
+                {
+                    "id": 350,
+                    "logo": "835f5a3c-97aa-4d6e-bba2-a5637391e377",
+                    "name": "Icetea Labs",
+                    "links": {
+                        "website": "https://icetea.io/#/"
+                    },
+                    "game_ids": [
+                        "ba99e235-e89d-43b8-95bd-58acd1dd9576"
+                    ]
+                },
+                {
+                    "id": 353,
+                    "logo": "bcddd4b0-07fe-4ec9-adf3-61bece13e36e",
+                    "name": "GAINS Associates",
+                    "links": {
+                        "website": "https://www.gains-associates.com/"
+                    },
+                    "game_ids": [
+                        "ba99e235-e89d-43b8-95bd-58acd1dd9576"
+                    ]
+                }
+            ],
+            "categories": [
+                {
+                    "id": "3f870a2d-28dd-4f92-a8b2-b26df6307bf0",
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "id": "cdb105f0-88bc-4f86-bf63-f17388c0a8f6",
+                    "name": "Others",
+                    "slug": "others"
+                },
+                {
+                    "id": "d53a29ef-1f25-47ea-87ec-093fb1d03c84",
+                    "name": "NFT",
+                    "slug": "nft"
+                }
+            ],
+            "downloads": [
+                {
+                    "id": "51dac448-e4df-4e5b-b8fd-e5a55ee77671",
+                    "type": "ios",
+                    "link": "https://apps.apple.com/us/app/befitter/id1627049149",
+                    "version": "0"
+                },
+                {
+                    "id": "218cde5c-5abb-43fe-8f2e-d0c0d35d40c3",
+                    "type": "android",
+                    "link": "https://play.google.com/store/apps/details?id=io.befitter.app",
+                    "version": "0"
+                }
+            ],
+            "networks": [
+                {
+                    "network": "bsc"
+                }
+            ],
+            "game_graveyard": null,
+            "report_gamefi_rank": "C"
+        },
+        "metadata": {
+            "counts": {
+                "ba99e235-e89d-43b8-95bd-58acd1dd9576": {
+                    "avg_star_rating": 4,
+                    "dislikes": 0,
+                    "ga_views": 2963,
+                    "likes": 12036,
+                    "percentile": 41,
+                    "ratings": 21262,
+                    "reviews": 909,
+                    "score": 106122
+                }
+            },
+            "media": {
+                "128c58b7-b8cf-4dbb-a7a0-646540c064a0": "befitter_108x108_6b3b414f93.png",
+                "26e52b84-d425-48e4-b1e4-82e8f0532c36": "befitter_logo_0004bcfedf.png",
+                "7de223eb-cee6-433f-b1a8-339d0c55af9b": "befitter_396x544_d515cfab11.png",
+                "835f5a3c-97aa-4d6e-bba2-a5637391e377": "icetealabs_full_white_9ccf0c6e07.png",
+                "bcddd4b0-07fe-4ec9-adf3-61bece13e36e": "gainsassociates_full_white_aadb5a987f.png",
+                "e12ac60a-c5b6-4f93-96b9-a490318ac74c": "befitter_logo_0004bcfedf.png",
+                "ea06a43c-40db-458e-ab4e-52be7fc7e0f4": "befitter_800x360_c3e8264365.png"
+            }
+        }
+    }
+}
